@@ -1,0 +1,142 @@
+TIKTOK MANAGEMENT PAGE — /tiktok-management/ — FINAL COPY
+Separators "—" and "|" in labels are not copy. No em-dashes in copy.
+
+=== SECTION 1 — HERO ===
+Eyebrow: • TikTok Management
+H1: TikTok Content That Grows Your Business, <span style="color:var(--e-global-color-secondary)">Not Just Your Views.</span>
+Description: We handle the whole thing: strategy, filming, editing, posting and reporting. You focus on running your business while your TikTok reaches thousands of people who are looking for exactly what you offer.
+CTA Primary: View Pricing -> #pricing
+CTA Secondary: Book a Strategy Session -> /contact-us/
+Right column: tiktok-hero-animation.html
+
+=== SECTION 2 — PROBLEM ===
+H2: Why Most Business TikTok Accounts Go Nowhere
+Card 1: You post a few times, get no traction, and give up. TikTok rewards consistency and strategy, not one-off effort.
+Card 2: Your content looks like it was filmed on a Tuesday afternoon with no plan. Good content starts with a hook and a brief.
+Card 3: You're spending hours creating content that your competitor's agency produces in a system, every week, without fail.
+Closer: That's the gap we close.
+
+=== SECTION 3 — WHAT'S INCLUDED ===
+Eyebrow: • What You Get
+H2: Everything Your TikTok Needs, Handled
+1. Content Strategy | Monthly content pillars, hook research and a content calendar built around what your audience is already searching for on TikTok.
+2. Filming | We come to you. Product shoots, behind-the-scenes, team content, drone footage for businesses where aerial adds impact.
+3. Editing | Professional cuts with trending audio, subtitles, colour grading and pacing built for TikTok's algorithm.
+4. Posting | We post at the right time for your audience, with captions, hashtags and location tags optimised per post.
+5. Community Management | Replies, comments and DMs handled within 24 hours to keep your engagement rate healthy.
+6. Monthly Reporting | Views, reach, followers, engagement rate and what we're changing next month.
+
+=== SECTION 4 — FEATURED CASE STUDY ===
+Eyebrow: • Case Study in Progress
+Chip: Industry · Location
+Stats (3): 0 | Followers when we started ;; 0 | Views in first 3 months ;; 0% | Average engagement rate
+Outcome text: Case study coming soon. We are currently managing TikTok accounts and will publish the results once the data is ready.
+(Note: replace all zeroes and text above once the client is confirmed and data is available. Remove "Case study coming soon" line.)
+Link: none until case study page exists
+
+=== SECTION 5 — PROCESS ===
+Eyebrow: • Our Process
+H2: How We Run Your TikTok Every Month
+1. Strategy Session | Month one: we map your audience, competitors, content pillars and first 30 days of hooks. Ongoing: we review what worked and adjust.
+2. Content Brief | A shot list and script outline for the month, sent to you before we film so you know what to expect.
+3. Film Day | We come to your location for a half-day or full-day shoot depending on your package. We bring the equipment.
+4. Edit and Schedule | All content edited, subtitled and scheduled into a monthly content calendar for your approval before anything posts.
+5. Post, Engage and Report | We post on the approved schedule, manage engagement daily and send a performance report at the end of the month.
+
+=== SECTION 6 — PRICING (id="pricing") ===
+Eyebrow: • Pricing
+H2: TikTok Management, Priced for Growing Businesses
+Banner: All packages include strategy, editing and posting. Filming is included in Business and Growth. Starter clients provide their own footage or upgrade to add filming. No contracts. Cancel anytime.
+
+TIER 1 — Starter — R2,500/month
+Tagline: For businesses ready to start posting consistently.
+- 8 posts per month
+- Content strategy and content calendar
+- Editing of footage you provide (we do not film)
+- Captions, hashtags and posting
+- Basic community management (replies to comments)
+- Monthly performance report
+Note: You film, we do everything else. Upgrade to Business to add filming.
+Best for: Businesses with someone in-house who can film, or who want to start before investing in production.
+CTA: /contact-us/?service=tiktok&tier=starter
+
+TIER 2 — Business — R4,000/month — MOST POPULAR
+Tagline: Full-service TikTok management with professional production.
+Plus: Everything in Starter, plus:
+- 16 posts per month
+- One half-day film shoot per month (we come to you)
+- Professional equipment: camera, gimbal, lighting
+- Trending audio selection and sound design
+- Full community management including DMs
+- Competitor monitoring (top 3)
+- Monthly strategy review call (30 min)
+Best for: Businesses that want a complete, hands-off TikTok presence with professional content.
+CTA: /contact-us/?service=tiktok&tier=business
+
+TIER 3 — Growth — R6,500/month — BEST VALUE
+Tagline: Maximum output for businesses serious about TikTok growth.
+Plus: Everything in Business, plus:
+- 24 posts per month
+- Two shoot days per month (one half-day each)
+- Drone footage included where applicable
+- TikTok ad creative (2 per month, ready to run as paid ads)
+- A/B hook testing: two versions of your best content, posted and compared
+- Bi-weekly strategy calls (30 min)
+- Priority WhatsApp support
+Best for: Businesses investing in TikTok as a primary growth channel.
+CTA: /contact-us/?service=tiktok&tier=growth
+
+TIER 4 — Enterprise — From R10,000/month — BESPOKE
+Tagline: Custom volume and multi-platform management.
+- Unlimited posts across TikTok, Instagram Reels and YouTube Shorts
+- Dedicated content strategist (not shared)
+- Multiple shoot days per month
+- Paid TikTok ad management included
+- Platform-specific content for each channel
+- Weekly reporting and strategy calls
+Note: Quoted per scope. Includes Instagram and/or YouTube if needed.
+CTA: /contact-us/?service=tiktok&tier=enterprise
+
+=== SECTION 7 — UNIVERSAL INCLUSIONS ===
+H2: What Comes With Every Package
+- Month-to-month, no contracts or cancellation fees
+- Content calendar sent for approval before anything posts
+- You own every video file (downloaded to your Drive)
+- No watermarks on your content
+- Monthly report: views, reach, followers, engagement rate
+- We post under your account (you keep full access)
+Below grid, internal links: Related services: Photography & Drone (/photography-drone/) · Google Ads (/google-ads-management/) · Web Design (/web-design-services/)
+
+=== SECTION 8 — ADD-ONS ===
+Eyebrow: • Optional Extras
+H2: Optional Add-Ons
+Featured (tag "Popular"): Photography & Drone Shoot — from R3,500 half-day
+Add a professional photo and drone shoot to your content month. Gives us more material to work with and produces better performing content. Can be combined with a TikTok film day.
+Grid:
+- Additional Posts | R250/post | Extra posts beyond your package, same quality and scheduling.
+- TikTok Paid Ads | R2,500/month management fee | We run and optimise TikTok ads alongside your organic content (ad spend billed separately).
+- Instagram Reels | R1,500/month add-on | Your TikTok content reformatted and posted on Instagram.
+- YouTube Shorts | R1,000/month add-on | Short-form content posted to your YouTube channel.
+- Rush Edit | R500/video | 48-hour turnaround on a single urgent video.
+- Content Audit | R750 once-off | We review your existing TikTok account and give you a plain-English fix list.
+
+=== SECTION 9 — FAQ ===
+Eyebrow: • Questions
+H2: TikTok Questions, Answered
+Q1 Do we need to be involved in the filming? | For the Starter package, you provide the footage. For Business and Growth, we handle the filming. You need to be available on shoot day (or have a team member there for context), but you don't need to be on camera unless you want to be.
+Q2 What if TikTok doesn't work for our industry? | TikTok works for almost every industry when the content is right. The platform rewards useful, interesting or entertaining content, not just dance videos. We have run successful accounts for trade businesses, service companies and B2B brands. We do honest onboarding: if your industry genuinely isn't a good fit, we'll tell you before you sign.
+Q3 How long before we see results? | Most accounts see meaningful reach growth within 60 to 90 days of consistent posting with a solid strategy. Follower growth follows reach. Patience and consistency are the only formula that works.
+Q4 Do you post on other platforms too? | Instagram Reels and YouTube Shorts are available as add-ons. We reformat the content for each platform rather than cross-posting the same file.
+Q5 Who owns the content? | You do. Every video file is downloaded and stored in a shared Google Drive folder under your account. We post with access you grant us, and you can remove that access at any time.
+Q6 What happens if we cancel? | No penalty, no cancellation fee. We wrap up at the end of the billing month, send you all the files and hand over access. Everything we built stays with you.
+
+=== SECTION 10 — CTA BAND ===
+Eyebrow: • Ready to Grow?
+H2: Let's Build Your TikTok Presence.
+Description: Book a strategy session. We'll review your business, map a content direction and show you exactly what a full month of managed TikTok looks like for you.
+CTA 1: Book a Strategy Session -> /contact-us/
+CTA 2: +27 65 221 9944 -> tel:+27652219944
+
+=== SEO ===
+Title: TikTok Management South Africa | Marketing Premium Solutions
+Description: Full-service TikTok management: strategy, filming, editing and posting for South African businesses. From R2,500/month. No contracts.

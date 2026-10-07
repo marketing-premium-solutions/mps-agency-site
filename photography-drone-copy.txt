@@ -1,0 +1,113 @@
+PHOTOGRAPHY & DRONE PAGE — /photography-drone/ — FINAL COPY
+Separators "—" and "|" in labels are not copy. No em-dashes in copy.
+
+=== SECTION 1 — HERO ===
+Eyebrow: • Photography & Drone
+H1: Professional Photos and Drone Footage That Make Your Business <span style="color:var(--e-global-color-secondary)">Look the Part.</span>
+Description: Phone photos lose clients before you even speak to them. We shoot professional photos, ground video and drone footage for your website, Google Ads, social media and print, all in one session.
+CTA Primary: View Pricing -> #pricing
+CTA Secondary: Book a Shoot -> /contact-us/?service=photography
+Right column: photography-hero-animation.html
+
+=== SECTION 2 — PROBLEM ===
+H2: What Phone Photos Are Costing You
+Card 1: Your competitor's website looks professional. Yours looks like it was shot on a bad day. Clients notice before they read a single word.
+Card 2: You are running Google Ads and social media with stock photos that could belong to any business in the country.
+Card 3: You have a drone-worthy property, project or product and you are showing it at ground level. Nobody sees the scale.
+Closer: One shoot day fixes all of this.
+
+=== SECTION 3 — WHAT'S INCLUDED ===
+Eyebrow: • What You Get
+H2: What a Shoot With MPS Delivers
+1. Professional Ground Photography | Sharp, well-lit, colour-graded photos of your business, products, team, property or project. Shot for web, ads and print.
+2. Ground Video | Smooth, gimbal-stabilised footage of your operation in action: walk-throughs, product reveals, behind-the-scenes and testimonial setups.
+3. Drone Photography | Aerial still photos from up to 120m for property, construction, agriculture and any business where scale is part of the story.
+4. Drone Video | Cinematic aerial footage: fly-throughs, orbit shots and establishing overviews at 5.1K. Colour-matched to ground footage.
+5. Same-Day Previews | A selection of edited previews on the day so you know immediately what you've got.
+6. Fully Edited Delivery | All photos retouched and colour-graded. Video edited with music, captions and transitions where applicable. Delivered as WebP (web), JPEG (print) and MP4 (social and ads).
+
+=== SECTION 4 — FEATURED CASE STUDY ===
+Eyebrow: • Our Work
+Chip: Construction · Centurion
+Stats (3): 1 | Shoot day ;; 148 | Photos delivered ;; 6 | Video clips edited
+Outcome text: A Centurion construction company needed imagery for a new website and Google Ads campaign. We did a half-day shoot covering their completed projects, active site and team. The photos went live on the website and into the Google Ads display creatives the same week. The videos became 3 TikTok posts and an Instagram Reel within two weeks of the shoot.
+(Note: replace with a real confirmed client once consent is received.)
+Link: none until case study page exists
+
+=== SECTION 5 — PROCESS ===
+Eyebrow: • Our Process
+H2: From Brief to Edited Files
+1. Brief Call | We talk through what you need the content for (website, ads, social, print), what to capture and where. We send a shot list before the day.
+2. Shoot Day | We arrive with professional camera, gimbal, lighting and the drone. We work through the shot list and adapt to what looks best on the day.
+3. Same-Day Preview | Before we leave, you get a quick preview of the best shots so there are no surprises.
+4. Edit and Grade | Full colour grading, retouching, video edit and audio sync. Drone footage colour-matched to ground.
+5. Delivery | All files via a shared Google Drive folder: WebP for web, JPEG for print, MP4 for social and ads. Raw originals included.
+
+=== SECTION 6 — PRICING (id="pricing") ===
+Eyebrow: • Pricing
+H2: Straightforward Pricing, No Hidden Extras
+Banner: Equipment, travel within 50km of Pretoria CBD, editing and delivery are all included. No licence fees. You own everything.
+
+Ground Photography
+- Half-day (up to 4 hours): R3,500 once-off
+- Full day (up to 8 hours): R6,500 once-off
+Includes: camera + prime and zoom lenses, gimbal for video, 1 photographer/videographer, same-day preview, full edit, WebP + JPEG + MP4 delivery
+
+Drone Photography
+- Half-day (up to 4 hours): R4,500 once-off
+Includes: DJI Mavic 3 5.1K, CAA-compliant pilot, aerial stills + video, colour-matched edit, full delivery
+Note: Drone shoots require open airspace. We confirm before booking.
+
+Drone Video (cinematic)
+- Half-day (up to 4 hours): R6,500 once-off
+- Full day (up to 8 hours): R12,000 once-off
+Includes: Cinematic fly-throughs, orbit shots, establishing overviews, full video edit with music and colour grade
+
+Combined Packages (custom)
+Ground + Drone in one day: quoted per scope. Most clients combine ground and drone for one effective full-day shoot. Contact us and we'll put a package together.
+
+Travel outside 50km of Pretoria CBD is quoted at cost.
+
+=== SECTION 7 — UNIVERSAL INCLUSIONS ===
+H2: What Every Shoot Includes
+- Shot list sent before the day so you know exactly what to prepare
+- Same-day preview before we leave
+- Full colour grading and retouching on every image
+- WebP (web-optimised), JPEG (print-quality) and MP4 (social formats) on delivery
+- Raw originals included in the delivery folder
+- You own all files outright, no licence, no watermark, use them anywhere
+Below grid, internal links: Related services: TikTok Management (/tiktok-management/) · Web Design (/web-design-services/) · Google Ads (/google-ads-management/)
+
+=== SECTION 8 — ADD-ONS ===
+Eyebrow: • Optional Extras
+H2: Optional Add-Ons
+Featured (tag "Popular"): Combined Ground + Drone Day
+Most clients get more from combining both in one session. We handle both rigs, colour-match all footage and deliver everything together. Contact us for a combined quote.
+Grid:
+- Additional Editing | R250/image or R500/video clip | Extra retouching or video work beyond the standard package.
+- Social Media Formats | R750 once-off | All content reformatted for Instagram (square and 9:16), TikTok and Facebook from the same shoot files.
+- Rush Delivery | R1,000 | Edited files back to you within 48 hours instead of the standard 5 to 7 working days.
+- Extra Locations | R500/location | Additional travel to a second or third address in the same session.
+- Drone Permit (complex airspace) | Cost + R500 admin | Required for certain urban or restricted zones. We handle the CAA application.
+- Brand Photography Package | R1,500 once-off | Shot list built around your brand colours, fonts and marketing assets, for social, ads and website hero images.
+
+=== SECTION 9 — FAQ ===
+Eyebrow: • Questions
+H2: Photography and Drone Questions, Answered
+Q1 Do I need to do anything before the shoot? | After booking we send a shot list and a simple prep guide: what areas to tidy, what to have ready, what to wear if team members will be in the photos. Most clients need about 30 minutes of preparation.
+Q2 Can you fly a drone anywhere? | Not everywhere. We operate under CAA regulations. Restricted zones include within 10km of controlled aerodromes, certain urban areas, and above people without permits. We check your location before confirming a drone shoot and handle permit applications where needed.
+Q3 How many photos will we get? | A half-day ground shoot typically delivers 60 to 100 edited images. A full day delivers 150 or more. Quality is the priority: we don't pad the delivery with near-identical shots.
+Q4 How long does editing take? | Standard turnaround is 5 to 7 working days. Rush delivery (48 hours) is available as an add-on.
+Q5 Can we use the photos in our Google Ads and on social media? | Yes. You own all files outright and can use them in any channel, at any time, without any licence fee or restriction. We recommend the WebP versions for web and ads, and the JPEG originals for print.
+Q6 What if the weather is bad on the day? | We monitor weather before every shoot. For drone shoots, wind above 40km/h or rain means we reschedule at no charge. For ground shoots, overcast is usually fine. We'll contact you the evening before if we need to move the date.
+
+=== SECTION 10 — CTA BAND ===
+Eyebrow: • Ready to Book?
+H2: Let's Shoot Your Business.
+Description: Tell us what you need the content for and where you are. We will put together a shot list and a quote, and get a date in the diary.
+CTA 1: Book a Shoot -> /contact-us/?service=photography
+CTA 2: +27 65 221 9944 -> tel:+27652219944
+
+=== SEO ===
+Title: Professional Photography & Drone Services Pretoria | Marketing Premium Solutions
+Description: Professional business photography, ground video and drone footage for websites, Google Ads and social media. From R3,500. Based in Pretoria, shooting across Gauteng.

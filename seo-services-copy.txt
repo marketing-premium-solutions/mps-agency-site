@@ -1,0 +1,147 @@
+SEO SERVICES PAGE — /seo-services — FINAL COPY
+(Keep the existing H1 exactly as it is on the live page.)
+
+=== SECTION 1 — HERO ===
+Eyebrow: • SEO Services
+H1: KEEP EXISTING: Professional SEO Services For <span style="color:var(--e-global-color-secondary)">Organic Traffic.</span>
+Description: Real SEO compounds month after month. We build keyword architecture, location pages and content systems that grow your organic traffic while your competitors are still guessing which keywords to target.
+CTA Primary: View Pricing -> #pricing
+CTA Secondary: Book Strategy Session -> /contact
+Right column: seo-hero-animation.html (replaces the navy stat card)
+
+=== SECTION 2 — PROBLEM ===
+H2: Why Most SEO Investments Burn Cash Without Moving Rankings
+Card 1: Cheap packages that pile on backlinks from spam sites and call it a strategy.
+Card 2: Monthly keyword reports with no action. Rankings drift while the invoice arrives.
+Card 3: No page architecture. One service page trying to rank for 50 keywords at once.
+Closer: That's not how we do SEO.
+
+=== SECTION 3 — WHAT'S INCLUDED (mps-inc, 6 items) ===
+Eyebrow: • What You Get
+H2: What Every SEO Engagement Includes
+1. Keyword Fan-Out Architecture | We map every keyword variation, search intent and location modifier, then build a page for each one.
+2. On-Page SEO | Titles, headings, content and structure tuned to rank. Every page optimised before we move to the next.
+3. Technical SEO | Speed, crawlability, schema markup, Core Web Vitals and structured data. The foundation everything else sits on.
+4. Content Production | SEO-optimised service pages, location pages and blog posts written by us, based on what your competitors are missing.
+5. Link Building | Quality backlinks from South African sites, built by hand. No spam directories, no link farms.
+6. Monthly Reporting | Clear reports on rankings, traffic, what we did and what comes next. No smoke, no mirrors.
+
+=== SECTION 4 — FEATURED CASE STUDY (mps-scs) ===
+Eyebrow: • Case Study in Progress
+Chip: Agriculture
+Stats (3): 93 | Location pages built across SA ;; 9 | Provinces targeted ;; 5 | Tunnel types with dedicated pages each
+Outcome text: Greenhouse Pro Installers needed to rank across South Africa, not just for "greenhouse tunnels" but for "greenhouse tunnel installation in Pretoria", "multi-span greenhouse Limpopo", "hobby tunnel Centurion" and dozens more. We built a full keyword fan-out architecture across their 5 tunnel types and 9 provinces. Each location gets its own page with localised content and internal links feeding authority back to the main service pages. 93 pages built. Indexing in progress.
+Link: View the full strategy -> /case-study/greenhouse-pro-installers/
+
+=== SECTION 5 — PROCESS (mps-proc, 5 steps) ===
+Eyebrow: • Our Process
+H2: How We Build Your Organic Traffic Engine
+1. Keyword Fan-Out | We map your seed keywords into every variation: informational, commercial, transactional, location and problem-based. One seed keyword typically fans out into 15 to 30 pages.
+2. Architecture | We group keywords into phases. Phase 1 targets your highest-value, lowest-competition opportunities. Phase 2 expands coverage. Phase 3 builds topical authority.
+3. Technical Foundation | We fix what's broken first: crawl errors, slow load times, missing schema, duplicate content and Core Web Vitals issues.
+4. Content Build | We write and publish each page in the architecture: service pages, location pages, blog posts and FAQ content.
+5. Authority & Reporting | Monthly backlinks from SA sources. Monthly reports on rankings, traffic and the next 30 days of work.
+
+=== SECTION 6 — PRICING (mps-price, id="pricing") ===
+Eyebrow: • Pricing
+H2: SEO Priced to Match Your Ambition
+Banner: SEO is a 6 to 12 month investment. All packages include a free audit and Google Search Console setup. No contracts. Cancel anytime.
+
+TIER 1 — Local SEO Starter — R2,500/month
+Tagline: For service businesses targeting one location.
+- 5 to 10 local target keywords
+- On-page SEO for up to 5 pages
+- 5 local citations per month
+- Monthly report: rankings, traffic, local pack
+- WhatsApp and email support
+Timeline: Realistic timeline: 2 to 3 months for local pack rankings.
+Best for: Sole traders and single-location service businesses.
+CTA: /contact?service=seo&tier=starter
+
+TIER 2 — Business SEO — R4,500/month — MOST POPULAR (pc-feat)
+Tagline: The standard package for businesses competing for local and regional rankings.
+Plus line: Everything in Local SEO Starter, plus:
+- 15 to 25 target keywords
+- On-page SEO for up to 15 pages
+- 1 blog post per month (700 to 1,000 words)
+- 10 citations and 3 niche directories per month
+- Technical SEO audit and monthly maintenance
+- Schema markup: LocalBusiness, FAQ, Service
+- Competitor monitoring (top 3)
+- Wednesday Optimisation Day
+- Monthly strategy review (30 min)
+Timeline: Realistic timeline: 3 to 6 months for top-3 rankings.
+Best for: Established businesses targeting Gauteng-wide or provincial rankings.
+CTA: /contact?service=seo&tier=business
+
+TIER 3 — Growth SEO — R7,500/month — BEST VALUE
+Tagline: Full-stack SEO for businesses serious about dominating organic search.
+Plus line: Everything in Business SEO, plus:
+- 30 to 50 target keywords
+- On-page SEO for up to 30 pages
+- 2 blog posts per month (1,500+ words)
+- Advanced technical SEO and Core Web Vitals
+- 15 quality backlinks per month (manual outreach)
+- Quarterly content gap analysis
+- 5 location pages built quarterly (R3,500 value included)
+- Bi-weekly strategy calls (45 min)
+- Quarterly conversion rate review
+- Priority WhatsApp and phone support
+Timeline: Realistic timeline: 4 to 6 months to meaningful growth, 9 to 12 to dominate.
+Best for: Multi-service businesses, agencies, B2B providers, e-commerce.
+CTA: /contact?service=seo&tier=growth
+
+TIER 4 — Enterprise SEO — From R12,000/month — BESPOKE (pc-ent)
+Tagline: Custom-scoped for complex sites, e-commerce and national authority builds.
+- Dedicated strategist (not shared)
+- Unlimited keywords and content production
+- E-commerce SEO: product schema, category optimisation
+- Advanced link building: 15 to 30 backlinks per month
+- Custom dashboards and weekly reporting
+- Quarterly business reviews with revenue attribution
+- 24-hour response SLA
+Note: Quoted per scope. Typical range R12,000 to R20,000 per month.
+Best for: Large sites, e-commerce, national brands, competitive industries.
+CTA: /contact?service=seo&tier=enterprise
+(Every card keeps the "No contracts · Cancel anytime" pill.)
+
+=== SECTION 7 — OUR APPROACH (mps-uni restyled: 4 cards, 2x2 desktop, each with title + paragraph) ===
+Eyebrow: • Our Approach
+H2: We Build SEO Systems, Not Just Rankings
+Card 1 — Query Fan-Out | Most agencies target 10 keywords per client. We map seed keywords into full fan-out architectures (informational, commercial, transactional, location and problem-based pages) so you capture traffic at every stage of the buying journey.
+Card 2 — Reverse Siloing | We don't just publish pages. We map which supporting pages link back to your main commercial pages and with what anchor text, pushing authority exactly where it needs to go.
+Card 3 — Programmatic Location Pages | If you serve multiple areas, we build a dedicated page for each one. Not copy-paste pages: each has localised content, area knowledge and its own keyword target. Greenhouse Pro Installers: 93 pages across 9 provinces.
+Card 4 — Entity Stacking | We build consistent references to your business name, services, locations and team across trusted South African directories and platforms, so Google understands exactly who you are and what you do.
+Below cards, one line of internal links: Related services: Local SEO (/local-seo/) · Web Design (/web-design-services/) · Google Ads (/google-ads-management/)
+
+=== SECTION 8 — ADD-ONS (mps-add) ===
+Eyebrow: • Optional Extras
+H2: Optional Add-Ons
+Featured (tag "Best Seller"): Local SEO Pages Bundle — R3,500 once-off
+The "Plumbers in Pretoria, Plumbers in Centurion, Plumbers in Midrand" play. 15 location-targeted pages, each with its own keyword research, unique localised copy, LocalBusiness schema and internal linking, submitted to Google Search Console. Adds to any SEO retainer or website build.
+Grid:
+- SEO Audit of Existing Site | R750 once-off | A full review with quick wins. Credited back if you sign.
+- Technical SEO Audit (deep dive) | R2,500 once-off | 40+ checks across speed, crawlability and structure.
+- Schema Markup Implementation | R1,500 once-off | Structured data added to your existing site.
+- Google Business Profile Setup | R1,500 once-off | Set up and optimise your Google Business Profile.
+- NAP & Citation Setup | R750 once-off | We audit your business name, address and phone across the web and give you a fix list.
+- Single Blog Post | R750 each | 1,500-word, SEO-optimised article written by us.
+- Content Refresh Package | R2,500 once-off | Rewrite and re-optimise 5 existing pages.
+- SA Platform Profiles | R1,500 once-off | Your business listed on high-authority South African platforms.
+
+=== SECTION 9 — FAQ (elementskit-accordion, 6) ===
+Eyebrow: • Questions
+H2: SEO Questions, Answered
+Q1 How long does SEO actually take? | Local rankings often move within 2 to 3 months. Competitive terms take 4 to 6 months to reach the top of page one, and 9 to 12 months to truly dominate. Anyone promising page one in 30 days is either guessing or using tactics that get sites penalised. We set realistic timelines upfront and report progress every month.
+Q2 What is the difference between SEO and Google Ads? | Google Ads buys instant visibility and stops the moment you stop paying. SEO builds organic rankings that compound and keep working. Ads are the fastest way to start. SEO lowers your long-term cost per lead. Most growing businesses run Ads first for immediate leads, then layer SEO so they are not renting all their traffic forever.
+Q3 What is keyword fan-out and why does it matter? | One seed keyword, "greenhouse tunnels", fans out into dozens of searches: "greenhouse tunnel installation Pretoria", "how much does a greenhouse tunnel cost", "greenhouse tunnel repair near me". Each is a different person at a different stage of buying. We build a page for each one instead of cramming them all onto one page.
+Q4 Can you guarantee rankings? | No honest SEO can guarantee a specific position, because Google controls the algorithm. Anyone who guarantees page one is a red flag. What we guarantee is real strategy, transparent reporting and steady, compounding progress on the keywords that bring you customers.
+Q5 How are you different from cheaper agencies? | Cheap packages usually mean spam backlinks and automated reports with no real action, which can get your site penalised. We do manual, white-hat work: real technical fixes, genuine content and quality South African backlinks built by outreach. You see exactly what we do each month, and you own every asset.
+Q6 What happens if I cancel? | You keep everything we built: the on-page work, the content, the technical fixes and the rankings they earned. Rankings may soften over time without ongoing work as competitors keep pushing, but nothing is taken away when you leave.
+
+=== SECTION 10 — CTA BAND (keep existing structure + glow) ===
+Eyebrow: • Ready to Rank?
+H2: Let's Build Your Organic Traffic Engine.
+Description: Book a strategy session and we will audit your current SEO setup, map a keyword architecture for your business and give you a roadmap that fits your budget.
+CTA 1: Book Strategy Session -> /contact
+CTA 2: +27 65 221 9944 -> tel:+27652219944

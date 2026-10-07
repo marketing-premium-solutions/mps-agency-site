@@ -1,0 +1,116 @@
+BUSINESS SYSTEMS PAGE — /business-systems — FINAL COPY (new page)
+Separators "—" and "|" in labels are not copy. Copy contains no em-dashes.
+No prices anywhere on this page. All builds are custom-quoted.
+
+=== SECTION 1 — HERO ===
+Eyebrow: • Business Systems
+H1: We Don't Just Build Websites. We Build <span style="color:var(--e-global-color-secondary)">Systems That Run Businesses.</span>
+Description: We audit how your business runs, find where systems can replace manual work, and build custom software around your workflow: dashboards, booking platforms, client portals, staff apps and automations that keep working while you sleep.
+CTA Primary: Book a Discovery Session -> /contact?service=business-systems
+CTA Secondary: See Our Systems -> #case-studies
+Trust line under buttons (small, DM Sans 14px, 70% opacity): 250+ staff managed · 60+ sites tracked live · 100/100 Lighthouse · 41/41 security tests passing
+Right column: business-systems-hero-animation.html
+
+=== SECTION 2 — PROBLEM (mps-prob) ===
+H2: Your Business Has Outgrown WhatsApp and Spreadsheets
+Card 1: Bookings and orders live in WhatsApp chats and a notebook. Nobody has the full picture.
+Card 2: You don't know who has paid, who owes you, or which deposits are still outstanding.
+Card 3: Your team can't see what each other is doing, so the same questions get asked every day.
+Closer: That's what we fix.
+
+=== SECTION 3 — WHAT WE BUILD (mps-inc, 6) ===
+Eyebrow: • What We Build
+H2: Systems Built Around How You Actually Work
+1. Custom Dashboards | One screen for your whole operation: clients, jobs, money and team, updated in real time on any device.
+2. Booking & Payment Systems | Clients book, choose dates and pay deposits online. Confirmations, invoices and reminders go out automatically.
+3. Client Portals | Every client gets a secure link to see their booking, pay, sign forms, upload documents and download invoices. No app download.
+4. Staff & Field Apps | Clock-ins with GPS, job reports with photos, leave requests and team views, all from a phone browser.
+5. WhatsApp & AI Automation | WhatsApp confirmations and reminders, plus AI that reads documents and posters so nobody types data twice.
+6. Monitoring & Support | We host, monitor and maintain your system, with security updates, backups and fixes handled for you.
+
+=== SECTION 4 — CASE STUDY 1: VR TRAVELCATIONS (section id="case-studies") ===
+Eyebrow: • Case Study · Booking Platform
+mps-scs card:
+  Chip: Tourism
+  Stats (3): 100/100 | Lighthouse score, mobile and desktop ;; 41/41 | Security tests passing ;; 3 weeks | From brief to live
+  Title line: VR Travelcations: a booking platform that runs the office
+  Text: VR Travelcations was taking bookings on WhatsApp and chasing deposits by hand. We built a complete travel platform: clients browse trips, pay a deposit online and manage everything from a personal portal on their phone. The same system now powers a second travel agency, fully separate, with its own branding, staff, trips and payments.
+  Link: Read the full case study -> /case-study/vr-travelcations/
+Feature grid below the card (4 columns desktop, 2 tablet, 1 mobile; same card style as mps-inc but smaller, title + 1 sentence):
+  - AI Poster Scanner | Upload a trip poster and the system fills in the name, dates, price, inclusions and deposit automatically.
+  - Smart Client Portals | A PIN-protected link on WhatsApp: view booking, pay instalments, sign the indemnity, upload passport, download invoice.
+  - Automated Booking Flow | Deposit paid, booking confirmed, portal link sent, reminders scheduled. Zero manual steps.
+  - Two Agencies, One System | One codebase runs two travel businesses with completely separate data and branding.
+  - Real-Time Admin | A special published from a phone at 9pm is live on the website in seconds.
+  - Smart Room Pairing | Solo travellers paired by pickup point, age, package and dietary needs, with a reason for each match.
+  - 100/100 Performance | Code splitting, WebP images, service workers and CDN delivery for a perfect Lighthouse score.
+  - Security Audited | 41/41 security tests passing. Passport numbers encrypted, every access logged. POPIA compliant.
+
+=== SECTION 5 — CASE STUDY 2: TURCLEA OPSCORE ===
+Eyebrow: • Case Study · Operations Platform
+mps-scs card:
+  Chip: Facility Services
+  Stats (4): 250+ | Staff managed ;; 60+ | Active sites ;; 7 | Divisions on one platform ;; 12 → 1 | Tools replaced
+  Title line: Turclea: one platform for 250+ staff across 9 provinces
+  Text: Turclea is a South African facility services company running cleaning, pest control, landscaping and more across 9 provinces. Staff records, attendance, tenders and safety files lived in spreadsheets, WhatsApp groups and paper. We built OpsCore, one platform that connects staff, sites, tenders, safety, quotes and invoices, used every day in production.
+  Link: none (no public case study page yet)
+Feature grid below (same style, 8 items):
+  - AI Tender Compilation | Upload the client's documents. AI extracts the scope and BOQ, prices it and compiles a submission-ready ZIP.
+  - WhatsApp Clock-In | Staff clock in from a link with GPS confirmation. Supervisors are alerted when someone is off-site.
+  - Staff Portal | Any phone browser, employee number and PIN. Clock in, submit job reports with photos, request leave.
+  - Digital Safety Files | A 17-section OHS safety file per site, shared with auditors through a secure link. No printing.
+  - Quote Engine | Labour with all SA statutory levies, equipment, overheads and 3-year escalation, as branded PDFs.
+  - Client Portal | Clients see their site's job reports, safety file, equipment and progress, and comment before sign-off.
+  - Job Cards & POs | Raised from the field, approved by value up the chain, suppliers notified on WhatsApp.
+  - Live Operations Dashboard | The director sees attendance, sites, tenders and finances in real time.
+
+=== SECTION 6 — PROCESS (mps-proc, 5) ===
+Eyebrow: • Our Process
+H2: From Conversation to Live System
+1. Audit | We map how your business runs today and where time and money are lost to manual work.
+2. Map | We design the system around your actual workflow, not a template.
+3. Build | We build in stages on a live link, so you test real screens from week one.
+4. Launch | We import your existing data from Excel, train your team and go live.
+5. Support & Grow | We monitor, maintain and add new modules as your business grows.
+
+=== SECTION 7 — HOW PRICING WORKS (mps-price restyled: banner + 3 cards, NO prices, id="pricing") ===
+Eyebrow: • How It Works
+H2: Every System Is Custom. So Is Every Quote.
+Banner: No two businesses run the same way, so we don't sell packages. We scope your system properly first, then give you one fixed quote.
+Card 1 — Free Discovery Session | We walk through your current process, tools and pain points, and map what the system needs to do. No cost, no obligation.
+  CTA: Book a Discovery Session -> /contact?service=business-systems
+Card 2 — Fixed Custom Quote (featured, pc-feat style) | After discovery you get a detailed scope and one fixed price. 50% deposit to start, 50% on launch. No surprise costs.
+  CTA: Get a Quote -> /contact?service=business-systems
+Card 3 — Monitoring & Support | A monthly plan covering hosting, monitoring, security updates, backups and fixes, so your system keeps running.
+  CTA: Ask About Support -> /contact?service=business-systems
+
+=== SECTION 8 — WHAT'S INCLUDED (mps-uni, 6) ===
+H2: What Comes With Every System
+- You own your data, hosted under your own accounts
+- POPIA-compliant access controls and audit logs
+- Security tested before launch
+- Works on any phone, tablet or computer, no app download
+- Data imported from your existing spreadsheets
+- Team training and handover included
+Below grid, internal links line: Related services: Web Design (/web-design-services/) · SEO Services (/seo-services/) · Google Ads (/google-ads-management/)
+
+=== SECTION 9 — FAQ (elementskit-accordion, 6) ===
+Eyebrow: • Questions
+H2: Business Systems Questions, Answered
+Q1 Is this off-the-shelf software? | No. Every system is built around your workflow, your roles and your business rules. We reuse proven building blocks so it's faster to build, but you're never forced into someone else's process.
+Q2 Who owns the system and the data? | Your data is yours and lives under your own accounts. You can export it at any time. We build and maintain the system for you, and the details of ownership are set out clearly in your quote.
+Q3 How long does it take to build? | Most systems go live in stages within a few weeks. You start using the first modules early while we keep building. Our travel booking platform went from brief to live in 3 weeks.
+Q4 Do my staff or clients need to download an app? | No. Everything works in a phone browser through a secure link, including staff portals and client portals. WhatsApp links are used where it makes sense.
+Q5 What does it cost? | Every system is quoted after a free discovery session, because the price depends on what it needs to do. You get one fixed quote with a 50% deposit to start and 50% on launch, so there are no surprises.
+Q6 What happens after launch? | We monitor the system, apply security updates, run backups and fix issues on a monthly support plan. When you need new features, we build them on the platform you already know.
+
+=== SECTION 10 — CTA BAND ===
+Eyebrow: • Ready to Automate?
+H2: Let's Build the System Your Business Runs On.
+Description: Book a free discovery session. We will map where your time goes, show you what can be automated, and give you a clear plan with one fixed quote.
+CTA 1: Book a Discovery Session -> /contact?service=business-systems
+CTA 2: +27 65 221 9944 -> tel:+27652219944
+
+=== SEO (Rank Math, set manually after import) ===
+Title: Custom Business Systems South Africa | Marketing Premium Solutions
+Description: Custom dashboards, booking platforms, client portals and automation built around your workflow. POPIA compliant. Book a free discovery session.

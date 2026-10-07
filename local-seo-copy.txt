@@ -1,0 +1,152 @@
+LOCAL SEO PAGE — /local-seo — FINAL COPY (new page, built from the SEO v2 structure)
+
+=== SECTION 1 — HERO ===
+Eyebrow: • Local SEO
+H1: Rank in Every Suburb You Serve, <span style="color:var(--e-global-color-secondary)">Not Just One.</span>
+Description: Most local SEO stops at a Google Business Profile and a handful of citations. We build a location content mesh, one dedicated page per area you serve, so when someone in Centurion, Midrand or Krugersdorp searches for what you do, your business shows up there too.
+CTA Primary: View Pricing -> #pricing
+CTA Secondary: Book Strategy Session -> /contact
+Trust line under buttons (small, DM Sans 14px, 70% opacity): 47 suburbs ranked in · 93 location pages for one client · R50M+ revenue generated · 5.0 Google rating
+Right column: local-seo-hero-animation.html
+
+=== SECTION 2 — PROBLEM ===
+H2: Why Most Local SEO Stops Working After the First Suburb
+Card 1: You rank in your home suburb but disappear when someone two towns away searches for the exact same thing.
+Card 2: Your Google Business Profile is set up, but your website has one page trying to rank for every area you serve at once.
+Card 3: Your competitors have 20 location pages. You have an "Areas We Serve" list with suburb names and no content behind any of them.
+Closer: That's the gap we close.
+
+=== SECTION 3 — WHAT'S INCLUDED (mps-inc, 6) ===
+Eyebrow: • What You Get
+H2: What Local SEO From Us Actually Looks Like
+1. Location Page Architecture | One dedicated page per suburb, town or city you serve. Each targets the exact search people use in that area, not a template with the suburb name swapped out.
+2. Local Keyword Research Per Area | We research what people in each area are searching for, including suburb-level and long-tail searches your competitors have missed.
+3. On-Page SEO and Content | Every location page is written with local knowledge, correct heading structure and the right keyword in the H1. No generic filler.
+4. LocalBusiness Schema | Structured data on every page we build, telling Google who you are, where you operate and what you provide.
+5. Citation Building | We submit your business to South African directories (Yellosa, Cylex, Brabys and industry platforms) with your Name, Address and Phone consistent across all of them.
+6. Monthly Local Ranking Reports | We track your local pack and organic positions per suburb, so you see exactly where you are gaining ground.
+Callout below grid (amber left border, surface background, like the pricing banner): Google Business Profile management is not included in Local SEO packages. GBP setup and optimisation is available as a once-off add-on at R1,500.
+
+=== SECTION 4 — FEATURED CASE STUDY (mps-scs) ===
+Eyebrow: • Case Study in Progress
+Chip: Agriculture · National Coverage
+Stats (3): 93 | Location pages across South Africa ;; 9 | Provinces covered ;; 5 | Tunnel types with location pages each
+Outcome text: Greenhouse Pro Installers installs greenhouse tunnels in every province. They had one website with one service page trying to rank nationally, while competitors owned the local searches. We mapped a location page architecture across 5 tunnel types and 9 provinces: "greenhouse tunnel installation in Pretoria", "shade net house Limpopo", "multi-span greenhouse Centurion". Each page carries localised content and internal links feeding authority to the main service pages. 93 pages built and indexing, with local rankings appearing in Gauteng within the first 6 weeks.
+Link: View the full architecture -> /case-study/greenhouse-pro-installers/
+
+=== SECTION 5 — PROCESS (mps-proc, 5) ===
+Eyebrow: • Our Process
+H2: How We Build Your Local Coverage
+1. Map Your Service Areas | Every suburb, town and city you serve or want to win, prioritised by search volume and competition.
+2. Keyword Research Per Location | The exact phrases people use in each area, including "near me", suburb and regional variations.
+3. Build the Location Pages | Written for that location: local knowledge, landmarks and industries, benchmarked against the top 3 ranking competitors.
+4. Schema and Internal Linking | LocalBusiness schema, clean headings and internal links pushing authority to your main service pages.
+5. Citations and Monitoring | Consistent NAP across SA directories, and monthly local pack and organic tracking per area.
+
+=== SECTION 6 — PRICING (mps-price, id="pricing") ===
+Eyebrow: • Pricing
+H2: Local SEO Pricing: Pay for the Areas You Actually Serve
+Banner: No contracts. Cancel anytime. Google Business Profile management is not included in any package (available as a once-off add-on). Location pages we build are yours permanently.
+
+TIER 1 — Starter — R2,500/month
+Tagline: For businesses targeting one location.
+- 1 location, local pack focus
+- 5 to 10 local keywords
+- On-page SEO for up to 5 pages
+- 1 location page built per month
+- 5 local citations per month
+- Monthly local pack and organic ranking report
+- WhatsApp and email support
+Timeline: Realistic timeline: 2 to 3 months for local pack appearance.
+Best for: Sole traders and single-location service businesses targeting their immediate area.
+CTA: /contact?service=local-seo&tier=starter
+
+TIER 2 — Business — R3,500/month — MOST POPULAR (pc-feat)
+Tagline: For businesses serving up to 3 locations.
+Plus line: Everything in Starter, plus:
+- Up to 3 locations, a dedicated page per area
+- 3 location pages built in month one
+- 10 to 20 local keywords across all areas
+- On-page SEO for up to 10 pages
+- 10 local citations per month
+- Competitor monitoring (top 2 per location)
+- Monthly strategy review (30 min)
+Timeline: Realistic timeline: 3 to 4 months for top-3 rankings in each location.
+Best for: Plumbers, electricians, cleaning companies and healthcare practices covering a city and its suburbs.
+CTA: /contact?service=local-seo&tier=business
+
+TIER 3 — Growth — R5,500/month — BEST VALUE
+Tagline: For businesses covering up to 10 locations.
+Plus line: Everything in Business, plus:
+- Up to 10 locations with dedicated pages
+- 10 location pages built in the first 2 months
+- 25 to 40 local keywords across all areas
+- 15 citations per month across all locations
+- Quarterly expansion (5 additional location pages)
+- Technical SEO audit and Core Web Vitals check
+- Internal link map so authority flows to every money page
+- Bi-weekly strategy calls (30 min)
+- Priority WhatsApp support
+Timeline: Realistic timeline: 3 to 6 months to rank across all 10 locations.
+Best for: Multi-branch businesses, trade contractors, franchises and businesses covering a full province.
+CTA: /contact?service=local-seo&tier=growth
+
+TIER 4 — Enterprise — From R8,500/month — BESPOKE (pc-ent)
+Tagline: For multi-city operations, franchise groups and national local SEO campaigns.
+- Unlimited locations
+- Bespoke location page production at scale
+- National NAP audit and correction across all listings
+- Franchise-level citation management per branch
+- Custom local ranking dashboards per location
+- Dedicated strategist, not shared
+- Quarterly business review
+Note: Quoted per scope based on number of locations and competitiveness.
+Best for: Franchise groups, national service businesses, multi-branch retailers, property companies.
+CTA: /contact?service=local-seo&tier=enterprise
+(Every card keeps the "No contracts · Cancel anytime" pill.)
+
+=== SECTION 7 — UNIVERSAL INCLUSIONS (mps-uni, 6) ===
+H2: What Comes With Every Local SEO Package
+- Month-to-month, no contracts or cancellation fees
+- Free local SEO audit on sign-up (worth R750)
+- NAP consistency check across your existing listings
+- LocalBusiness schema on every page we build
+- Search Console, GA4 and every page under your accounts
+- Monthly reports showing local pack and organic positions per suburb
+Below grid, one line of internal links: Related services: SEO Services (/seo-services/) · Web Design (/web-design-services/) · Google Ads (/google-ads-management/)
+
+=== SECTION 8 — ADD-ONS (mps-add) ===
+Eyebrow: • Optional Extras
+H2: Optional Add-Ons
+Featured (tag "Best Seller"): Local SEO Pages Bundle — R3,500 once-off
+The "Plumbers in Pretoria, Plumbers in Centurion, Plumbers in Midrand" play, built properly. 15 location-targeted pages, each with keyword research, unique localised copy, LocalBusiness schema and internal linking, submitted to Google Search Console. Works with any website, SEO retainer or website build. This is how Greenhouse Pro Installers started: 15 pages, then expanded to 93.
+Grid:
+- GBP Setup and Optimisation | R1,500 once-off | Full Google Business Profile setup: categories, photos, services and Q&A.
+- Additional Location Pages | R750 per page | Beyond your package or bundle, same quality, indexed and submitted.
+- NAP Audit + Checklist | R750 once-off | We find every inconsistent listing and give you a clear fix list.
+- NAP Cleanup (10 directories) | R1,500 once-off | We fix your name, address and phone across 10 key SA directories.
+- Ongoing Citation Management | R500 / month | We keep your listings consistent and add new ones every month.
+- Technical SEO Audit | R2,500 once-off | 40+ checks across speed, crawlability, schema and structure.
+- Schema Markup Implementation | R1,500 once-off | LocalBusiness, Service and FAQ schema on your existing pages.
+- Content Refresh | R2,500 once-off | Rewrite and re-optimise 5 existing pages that have lost rankings.
+
+=== SECTION 9 — FAQ (elementskit-accordion, 6) ===
+Eyebrow: • Questions
+H2: Local SEO Questions, Answered
+Q1 What is the difference between Local SEO and regular SEO? | Regular SEO targets broad keywords nationally. Local SEO targets location-specific searches like "plumber in Centurion", "dentist near Fourways" or "electrician Midrand", and focuses on the map pack and local organic results. If your customers come from specific areas, local SEO delivers the fastest, most measurable return.
+Q2 Do I actually need a dedicated page for every suburb I serve? | Yes, if you want to rank in each one. Google ranks pages, not businesses. To appear when someone in Krugersdorp searches for your service, you need a page that targets Krugersdorp, with localised content, the right keyword in the H1 and schema markup. An "Areas We Serve" list does not rank for anything.
+Q3 Is Google Business Profile management included? | No. GBP setup and optimisation is a once-off add-on at R1,500. Ongoing GBP management is handled separately on request. We are upfront about this because hiding it inside a retainer is one of the oldest tricks in local SEO.
+Q4 How many location pages do I need? | Start with the areas that bring in the most revenue. A plumber in Pretoria might start with Centurion, Pretoria East, Pretoria North, Midrand and Soshanguve: five pages, five new ranking opportunities. A few well-built pages always beat many thin ones, and we advise on scope based on your area, competition and budget.
+Q5 How long before I start ranking locally? | Low-competition suburbs often move within 6 to 8 weeks of a page being indexed. Competitive areas like Sandton or Pretoria CBD take 3 to 6 months. We track each location separately and report monthly, so you always know where things stand.
+Q6 Can location pages be added to my existing website? | Yes. They can be added to any WordPress site without a rebuild. We build them as new pages, connect them to your navigation and internal links, and submit them to Search Console.
+
+=== SECTION 10 — CTA BAND ===
+Eyebrow: • Ready to Rank Locally?
+H2: Start Ranking in Every Suburb You Serve.
+Description: Tell us which areas you want to win. We will map your location page architecture, show you what competitors rank for that you are missing, and give you a clear plan with realistic timelines.
+CTA 1: Book Strategy Session -> /contact
+CTA 2: +27 65 221 9944 -> tel:+27652219944
+
+=== SEO (Rank Math, set manually after import) ===
+Title: Local SEO Services South Africa | Marketing Premium Solutions
+Description: Rank in every suburb you serve. Location pages, local keyword research, LocalBusiness schema and SA citations. Local SEO from R2,500/month, no contracts.

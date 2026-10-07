@@ -1,0 +1,47 @@
+PRODUCTS INDEX PAGE — /products/ — FINAL COPY
+
+=== SECTION 1 — HERO ===
+Background: white
+H1: Tools That Run the Businesses We Serve
+Description: We build websites and run marketing. We also build the systems behind our clients' operations. These are the products we have built — and keep building.
+No CTA (page leads straight into the product grid)
+
+=== SECTION 2 — PRODUCT GRID ===
+Layout: auto-fill grid, minmax(340px, 1fr), gap 32px
+
+CARD 1 — School Companion (available)
+Badge: Available Now (gold background, navy text)
+Product name: School Companion
+Category eyebrow: School Management System
+Description: Attendance, marks, fees and parent communication — all in one system. Built for South African independent schools, Grade R to 12.
+Feature list:
+- Attendance in under 2 minutes per class
+- Marks, averages and automated report cards
+- Fee tracking and parent payment reminders
+- Parent communication and absence notifications
+- Principal dashboard with live school data
+- Grade R-12, CAPS-aligned
+CTA Primary: Start Free Trial -> https://school-companion-app-1.web.app/register
+CTA Secondary: Learn More -> /products/school-companion/
+
+CARD 2 — OpsCore Dashboard (coming soon, dashed border)
+Badge: Coming Soon
+Product name: OpsCore Dashboard
+Category eyebrow: Field Operations Management
+Description: Track jobs, teams, equipment and billing for service businesses and plant hire operations. Currently being rebuilt as a multi-client platform.
+
+CARD 3 — More coming (dashed border, minimal)
+Text: More Products Coming
+Sub: We build systems for the businesses we work with. More products follow as we productise what works.
+
+=== SECTION 3 — CTA BAND ===
+Background: navy (var(--e-global-color-primary))
+Eyebrow: • Custom Systems
+H2: Need a System Built for Your Business?
+Description: School Companion is one of the systems we have built. If your business needs a custom dashboard, booking platform or automation, talk to us.
+CTA 1: Explore Business Systems -> /business-systems/
+CTA 2: WhatsApp Us -> https://wa.me/27652219944?text=Hi%20Marketing%20Premium%20Solutions%2C%20I%27d%20like%20to%20discuss%20growing%20my%20business
+
+=== SEO ===
+Title: Products | Business Tools for South African Companies | MPS
+Description: Software products built by Marketing Premium Solutions for South African businesses. School Companion, OpsCore and more. Built, hosted and supported by MPS.
