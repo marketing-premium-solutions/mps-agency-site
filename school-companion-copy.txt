@@ -1,13 +1,13 @@
 SCHOOL COMPANION PAGE — /products/school-companion/ — FINAL COPY
 
 === SECTION 1 — HERO ===
-Eyebrow: • School Management System
-H1: Run Your School Without the Paperwork
-Description: School Companion handles attendance, marks, fees and parent communication — so your staff spend their time teaching, not typing.
+Eyebrow: • School Companion
+H1: The School Management System That Eliminates Your Paperwork
+Description: Our school management system handles attendance, marks, fees and parent communication, so your staff spend their time teaching, not typing.
 CTA Primary: Start Free Trial -> https://school-companion-app-1.web.app/register
 CTA Secondary: Book a Demo -> /contact-us/?service=school-companion
-Right column: Paste contents of school-companion-hero-animation.html into an HTML widget. Hide on mobile (below 768px).
-Hero background: var(--e-global-color-primary) [navy] — white text throughout. CTA Primary: white background + navy text. CTA Secondary: white outline, white text.
+Right column: Paste contents of school-companion-hero-animation.html into an HTML widget. Visible on all devices (do not hide on mobile).
+Hero background: var(--e-global-color-light) [white]. Eyebrow: gold. H1: navy (primary), Montserrat 800, 56px desktop / 36px mobile. Description: text colour, DM Sans 400 17px. CTA Primary: background secondary (blue), text #FFFFFF. CTA Secondary: transparent background, 1px solid primary border, text primary. Hover: border secondary, text secondary.
 
 === SECTION 2 — STATS BAND ===
 Background: white
@@ -21,7 +21,7 @@ Eyebrow: • Features
 H2: Everything Your School Needs, in One System
 1. Attendance Management | Mark register in under 2 minutes per class. Real-time visibility for every teacher and the principal.
 2. Student Profiles | Every learner's academic record, medical notes, parent contacts and fee status in one place.
-3. Marks and Reports | Enter results once — averages, rankings and report cards generate automatically.
+3. Marks and Reports | Enter results once. Averages, rankings and report cards generate automatically.
 4. Fee Tracking | See exactly who has paid, who owes and how much. Send payment reminders in one click.
 5. Parent Communication | Notify parents about absences, results and school announcements directly from the system.
 6. Principal Dashboard | Your whole school at a glance: attendance rates, fee collection and class performance updated live.
@@ -98,15 +98,15 @@ H2: Built for South African Schools
 === SECTION 8 — NOT INCLUDED ===
 Eyebrow: • Transparency
 H2: What School Companion Does Not Do (Yet)
-- SACE / GDE / DBE compliance reporting — we are working on this
-- Integration with CEMIS (government schools system)
-- Payroll processing — available as a paid add-on
-- Custom branded mobile app — not available at this stage
+SACE / GDE / DBE compliance reporting | We are working on this and will add it in a future release.
+Integration with CEMIS (government schools system) | School Companion is for independent and private schools, not government CEMIS users.
+Payroll processing | Available as a paid add-on. Not included in the base subscription.
+Custom branded mobile app | Not available at this stage. The system works on mobile browsers without an app.
 
 === SECTION 9 — FAQ ===
 Eyebrow: • Questions
 H2: School Companion, Answered
-Q1 How long does setup take? | For most schools, setup is complete within 5 working days. We configure your grades, subjects, staff accounts and fee structure. You provide the information, we do the technical work.
+Q1 How long does setup take? | Setting up our school management system takes just 5 working days for most schools. We handle the technical work: configuring your grades, subjects, staff accounts and fee structure. You simply provide the information.
 Q2 Does it work during load shedding? | Yes. School Companion caches recent data so teachers can mark attendance offline. It syncs automatically when connectivity returns.
 Q3 Can parents access the system? | Parents receive automated notifications for absences, results and fee statements. A parent portal is available on the School and Campus tiers.
 Q4 Is our data safe? | Your school's data is stored securely and is not shared with third parties. We use Google Firebase infrastructure with South African data residency.
@@ -117,7 +117,7 @@ Q7 Can we run it alongside our current system? | Yes, during transition. School 
 === SECTION 10 — CTA BAND ===
 Eyebrow: • Get Started
 H2: Ready to Run Your School Properly?
-Description: Start a free trial or book a call with us. We will show you the system live and set it up for your school within 5 working days.
+Description: Start a free trial or book a call with us. We will show you our school management system live and set it up for your school within 5 working days.
 CTA 1: Start Free Trial -> https://school-companion-app-1.web.app/register
 CTA 2: 065 221 9944 -> tel:+27652219944
 

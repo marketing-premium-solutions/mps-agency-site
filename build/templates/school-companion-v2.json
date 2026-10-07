@@ -1,0 +1,1328 @@
+{
+  "content": [
+    {
+      "id": "sc1s001a",
+      "settings": {
+        "structure": "20",
+        "content_position": "middle",
+        "gap": "custom",
+        "background_background": "classic",
+        "padding": {
+          "unit": "px",
+          "top": "120",
+          "right": "0",
+          "bottom": "120",
+          "left": "0",
+          "isLinked": false
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "72",
+          "right": "24",
+          "bottom": "72",
+          "left": "24",
+          "isLinked": false
+        },
+        "__globals__": {
+          "background_color": "globals/colors?id=light"
+        },
+        "border_border": "solid",
+        "border_width": {
+          "unit": "px",
+          "top": "0",
+          "right": "0",
+          "bottom": "1",
+          "left": "0",
+          "isLinked": false
+        },
+        "border_color": "#E8EAF0",
+        "gap_columns": {
+          "size": 60,
+          "unit": "px",
+          "sizes": []
+        }
+      },
+      "elements": [
+        {
+          "id": "sc1c001a",
+          "settings": {
+            "_column_size": 50,
+            "_inline_size": 50,
+            "_inline_size_tablet": 100,
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            },
+            "padding_mobile": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "40",
+              "left": "0",
+              "isLinked": false
+            },
+            "padding_tablet": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": true
+            }
+          },
+          "elements": [
+            {
+              "id": "sc1w001a",
+              "settings": {
+                "title": "• School Companion",
+                "header_size": "div",
+                "margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "18",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "__globals__": {
+                  "title_color": "globals/colors?id=accent_gold",
+                  "typography_typography": "globals/typography?id=accent"
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "heading",
+              "elType": "widget"
+            },
+            {
+              "id": "sc1w002a",
+              "settings": {
+                "title": "The School Management System That Eliminates Your Paperwork",
+                "header_size": "h1",
+                "margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "22",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "__globals__": {
+                  "title_color": "globals/colors?id=primary"
+                },
+                "typography_typography": "custom",
+                "typography_font_family": "Montserrat",
+                "typography_font_weight": "800",
+                "typography_font_size": {
+                  "unit": "px",
+                  "size": 56,
+                  "sizes": []
+                },
+                "typography_font_size_tablet": {
+                  "unit": "px",
+                  "size": 44,
+                  "sizes": []
+                },
+                "typography_font_size_mobile": {
+                  "unit": "px",
+                  "size": 36,
+                  "sizes": []
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "heading",
+              "elType": "widget"
+            },
+            {
+              "id": "sc1w003a",
+              "settings": {
+                "editor": "<p style=\"margin:0;\">Our school management system handles attendance, marks, fees and parent communication, so your staff spend their time teaching, not typing.</p>",
+                "margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "30",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "__globals__": {
+                  "text_color": "globals/colors?id=text"
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "text-editor",
+              "elType": "widget"
+            },
+            {
+              "id": "sc1s001b",
+              "settings": {
+                "structure": "20",
+                "gap": "narrow",
+                "_css_classes": "mps-hero-ctas"
+              },
+              "elements": [
+                {
+                  "id": "sc1c001c",
+                  "settings": {
+                    "_column_size": 50,
+                    "_inline_size": 46,
+                    "_inline_size_mobile": 100
+                  },
+                  "elements": [
+                    {
+                      "id": "sc1w004a",
+                      "settings": {
+                        "text": "Start Free Trial",
+                        "link": {
+                          "url": "https://school-companion-app-1.web.app/register",
+                          "is_external": true,
+                          "nofollow": false
+                        },
+                        "align": "left",
+                        "align_mobile": "center",
+                        "border_radius": {
+                          "unit": "px",
+                          "top": "8",
+                          "right": "8",
+                          "bottom": "8",
+                          "left": "8",
+                          "isLinked": true
+                        },
+                        "__globals__": {
+                          "background_color": "globals/colors?id=secondary",
+                          "button_background_hover_color": "globals/colors?id=secondary_dark",
+                          "typography_typography": "globals/typography?id=mps-btn"
+                        },
+                        "button_text_color": "#FFFFFF"
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "button",
+                      "elType": "widget"
+                    }
+                  ],
+                  "isInner": true,
+                  "elType": "column"
+                },
+                {
+                  "id": "sc1c001d",
+                  "settings": {
+                    "_column_size": 50,
+                    "_inline_size": 54,
+                    "_inline_size_mobile": 100
+                  },
+                  "elements": [
+                    {
+                      "id": "sc1w005a",
+                      "settings": {
+                        "text": "Book a Demo",
+                        "link": {
+                          "url": "/contact-us/?service=school-companion",
+                          "is_external": false,
+                          "nofollow": false
+                        },
+                        "align": "left",
+                        "align_mobile": "center",
+                        "border_border": "solid",
+                        "border_width": {
+                          "unit": "px",
+                          "top": "1",
+                          "right": "1",
+                          "bottom": "1",
+                          "left": "1",
+                          "isLinked": true
+                        },
+                        "border_radius": {
+                          "unit": "px",
+                          "top": "8",
+                          "right": "8",
+                          "bottom": "8",
+                          "left": "8",
+                          "isLinked": true
+                        },
+                        "background_color": "rgba(255,255,255,0)",
+                        "button_background_hover_color": "rgba(255,255,255,0)",
+                        "__globals__": {
+                          "button_text_color": "globals/colors?id=primary",
+                          "hover_color": "globals/colors?id=secondary",
+                          "border_color": "globals/colors?id=primary",
+                          "button_hover_border_color": "globals/colors?id=secondary",
+                          "typography_typography": "globals/typography?id=mps-btn"
+                        }
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "button",
+                      "elType": "widget"
+                    }
+                  ],
+                  "isInner": true,
+                  "elType": "column"
+                }
+              ],
+              "isInner": true,
+              "elType": "section"
+            },
+            {
+              "id": "sc1w006a",
+              "settings": {
+                "html": "<style>.mps-hero-ctas>.elementor-container{display:flex;flex-wrap:wrap;justify-content:flex-start;gap:12px}.mps-hero-ctas .elementor-column{width:auto!important;flex:0 0 auto}.mps-hero-ctas .elementor-widget-wrap{padding:0!important}.mps-hero-ctas .elementor-widget-button{text-align:left!important}@media(max-width:767px){.mps-hero-ctas>.elementor-container{justify-content:center}.mps-hero-ctas .elementor-widget-button{text-align:center!important}}</style>"
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "html",
+              "elType": "widget"
+            }
+          ],
+          "isInner": false,
+          "elType": "column"
+        },
+        {
+          "id": "sc1c001b",
+          "settings": {
+            "_column_size": 50,
+            "_inline_size": 50,
+            "_inline_size_tablet": 100
+          },
+          "elements": [
+            {
+              "id": "sc1w007a",
+              "settings": {
+                "html": "<div class=\"mps-sc-anim\" aria-label=\"School Companion product tour: principal dashboard, attendance, finance, report cards and the parent app\">\n<div class=\"scx-win\">\n<div class=\"scx-chrome\"><i></i><i></i><i></i><span>school-companion-app-1.web.app</span></div>\n<div class=\"scx-app\">\n<aside class=\"scx-side\">\n<div class=\"scx-brand\"><b>School Companion</b><em>Sarah Johnson</em></div>\n<nav>\n<div class=\"scx-nav\" data-n=\"0\"><svg viewBox=\"0 0 24 24\"><rect x=\"3\" y=\"3\" width=\"7\" height=\"9\" rx=\"1\"/><rect x=\"14\" y=\"3\" width=\"7\" height=\"5\" rx=\"1\"/><rect x=\"14\" y=\"12\" width=\"7\" height=\"9\" rx=\"1\"/><rect x=\"3\" y=\"16\" width=\"7\" height=\"5\" rx=\"1\"/></svg>Dashboard</div>\n<div class=\"scx-nav\"><svg viewBox=\"0 0 24 24\"><path d=\"M22 10 12 5 2 10l10 5 10-5z\"/><path d=\"M6 12v5c3 2 9 2 12 0v-5\"/></svg>Students</div>\n<div class=\"scx-nav\" data-n=\"1\"><svg viewBox=\"0 0 24 24\"><rect x=\"5\" y=\"4\" width=\"14\" height=\"17\" rx=\"2\"/><path d=\"M9 4V2h6v2M9 11h6M9 15h4\"/></svg>Attendance</div>\n<div class=\"scx-nav\"><svg viewBox=\"0 0 24 24\"><path d=\"M6 20V12M12 20V4M18 20v-6\"/></svg>Marks</div>\n<div class=\"scx-nav\" data-n=\"3\"><svg viewBox=\"0 0 24 24\"><path d=\"M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z\"/><path d=\"M14 2v6h6M8 13h8M8 17h5\"/></svg>Report Cards</div>\n<div class=\"scx-nav\"><svg viewBox=\"0 0 24 24\"><path d=\"M6 8a6 6 0 0 1 12 0c0 7 3 9 3 9H3s3-2 3-9M10.3 21a1.9 1.9 0 0 0 3.4 0\"/></svg>Announcements</div>\n<div class=\"scx-nav\" data-n=\"4\"><svg viewBox=\"0 0 24 24\"><circle cx=\"9\" cy=\"7\" r=\"4\"/><path d=\"M2 21v-1a6 6 0 0 1 11-3M16 11l2 2 4-4\"/></svg>Parents</div>\n<div class=\"scx-nav\" data-n=\"2\"><svg viewBox=\"0 0 24 24\"><path d=\"M12 2v20M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6\"/></svg>Finance</div>\n</nav>\n</aside>\n<div class=\"scx-main\">\n<div class=\"scx-top\"><span>Greenfield Academy</span><span class=\"scx-who\"><em>principal</em>Sarah Johnson</span></div>\n<div class=\"scx-stage\">\n\n<!-- SCENE 0 — Principal dashboard -->\n<div class=\"scx-sc\" data-s=\"0\">\n<div class=\"scx-h1\">Greenfield Academy</div><div class=\"scx-sub\">School administration overview</div>\n<div class=\"scx-stats4\">\n<div class=\"scx-st\"><em>Students</em><b class=\"scx-c\" data-to=\"202\">0</b></div>\n<div class=\"scx-st\"><em>Staff</em><b class=\"scx-c\" data-to=\"12\">0</b></div>\n<div class=\"scx-st\"><em>Classes</em><b class=\"scx-c\" data-to=\"8\">0</b></div>\n<div class=\"scx-st\"><em>Subjects</em><b class=\"scx-c\" data-to=\"10\">0</b></div>\n</div>\n<div class=\"scx-panel\"><div class=\"scx-ph\">Recent Students<span>View all</span></div>\n<div class=\"scx-tr scx-in\"><span>Sibusiso Pillay</span><span>Grade 8</span><span>2026/10/07</span></div>\n<div class=\"scx-tr scx-in\"><span>Hannah Robinson</span><span>Grade 9</span><span>2026/10/07</span></div>\n<div class=\"scx-tr scx-in\"><span>Naledi Ntuli</span><span>Grade 11</span><span>2026/10/07</span></div>\n</div>\n</div>\n\n<!-- SCENE 1 — Attendance -->\n<div class=\"scx-sc\" data-s=\"1\">\n<div class=\"scx-hrow\"><div><div class=\"scx-h1\">Attendance</div><div class=\"scx-sub\">Grade 8A · Period 1 · 07:45</div></div><div class=\"scx-btn scx-ghost scx-all\">Mark all present</div></div>\n<div class=\"scx-panel scx-att\">\n<div class=\"scx-ar\"><span class=\"scx-av\">BS</span><span>Bongani Sithole</span><i class=\"scx-pill\"></i></div>\n<div class=\"scx-ar\"><span class=\"scx-av\">ZK</span><span>Zanele Khumalo</span><i class=\"scx-pill\"></i></div>\n<div class=\"scx-ar scx-abs\"><span class=\"scx-av\">KB</span><span>Keegan Botha</span><i class=\"scx-pill\"></i></div>\n<div class=\"scx-ar\"><span class=\"scx-av\">PN</span><span>Priya Naidoo</span><i class=\"scx-pill\"></i></div>\n<div class=\"scx-ar\"><span class=\"scx-av\">RC</span><span>Ruan Coetzee</span><i class=\"scx-pill\"></i></div>\n</div>\n<div class=\"scx-foot\"><span class=\"scx-cnt\">0 of 32 marked</span><div class=\"scx-btn scx-sub-btn\">Submit</div></div>\n<div class=\"scx-toast\">✓ Period 1 marked · 31 present, 1 absent</div>\n</div>\n\n<!-- SCENE 2 — Finance -->\n<div class=\"scx-sc\" data-s=\"2\">\n<div class=\"scx-h1\">Finance Dashboard</div><div class=\"scx-sub\">2026 academic year</div>\n<div class=\"scx-stats2\">\n<div class=\"scx-st\"><em>Total Expected</em><b class=\"scx-r\" data-to=\"13210800\">R0,00</b></div>\n<div class=\"scx-st\"><em>Collected</em><b class=\"scx-r scx-g\" data-to=\"9003400\">R0,00</b></div>\n<div class=\"scx-st\"><em>Outstanding</em><b class=\"scx-r scx-red\" data-to=\"4207400\">R0,00</b></div>\n<div class=\"scx-st\"><em>Collection Rate</em><b class=\"scx-c\" data-to=\"68\" data-suf=\"%\">0%</b></div>\n</div>\n<div class=\"scx-panel scx-prog\"><div class=\"scx-ph\">Collection Progress<span class=\"scx-pct\">0%</span></div>\n<div class=\"scx-bar\"><i style=\"--w:68%\"></i></div>\n<div class=\"scx-grade\"><span>Grade 8</span><div class=\"scx-bar scx-rb\"><i style=\"--w:66%\"></i></div><b>R1 384 300,00</b></div>\n<div class=\"scx-grade\"><span>Grade 11</span><div class=\"scx-bar scx-rb\"><i style=\"--w:68%\"></i></div><b>R872 000,00</b></div>\n</div>\n</div>\n\n<!-- SCENE 3 — Report cards -->\n<div class=\"scx-sc\" data-s=\"3\">\n<div class=\"scx-h1\">Report Cards</div><div class=\"scx-sub\">Generate and download student report cards</div>\n<div class=\"scx-panel\">\n<div class=\"scx-ph\">Grade 10A · Term 4 2026<span class=\"scx-gen\">1 of 25 generated</span></div>\n<div class=\"scx-rr\"><span>Sibusiso Adams</span><span class=\"scx-num\">GFA-2025-0129</span><span class=\"scx-ok\">✓ Generated</span><span class=\"scx-btn scx-pdf\">PDF</span></div>\n<div class=\"scx-rr scx-target\"><span>Keegan Botha</span><span class=\"scx-num\">GFA-2025-0119</span><span class=\"scx-state\">Not generated</span><span class=\"scx-btn scx-ghost scx-genbtn\">Generate</span></div>\n<div class=\"scx-rr\"><span>Anele Coetzee</span><span class=\"scx-num\">GFA-2025-0122</span><span class=\"scx-state\">Not generated</span><span class=\"scx-btn scx-ghost\">Generate</span></div>\n</div>\n<div class=\"scx-file\"><span class=\"scx-fi\">PDF</span><div><b>ReportCard_Keegan_Botha_Term_4_2026.pdf</b><em>Greenfield Academy · Academic report card</em></div><span class=\"scx-dl\">↓</span></div>\n</div>\n\n</div>\n</div>\n</div>\n\n<!-- SCENE 4 — Parent app (phone overlay) -->\n<div class=\"scx-phone\">\n<div class=\"scx-pt\"><b>School Companion</b><em>Greenfield Academy</em></div>\n<div class=\"scx-pb\">\n<div class=\"scx-hi\">Good evening, Demo</div><div class=\"scx-date\">Wednesday, 7 October 2026</div>\n<div class=\"scx-kid\">\n<div class=\"scx-kh\"><span class=\"scx-kav\">BS</span><div><b>Bongani Sithole</b><em>Grade 8 · Grade 8A</em></div></div>\n<div class=\"scx-kst\"><div><em>Attendance Term 4</em><b class=\"scx-c scx-g\" data-to=\"96\" data-suf=\"%\">0%</b><small>115 present · 5 absent</small></div><div><em>Unread messages</em><b class=\"scx-blue\">0</b></div></div>\n<div class=\"scx-tiles\"><span>Attendance</span><span>Marks</span><span>Messages</span><span>Announcements</span></div>\n</div>\n<div class=\"scx-ann\">7 school announcements<span>›</span></div>\n</div>\n</div>\n\n<svg class=\"scx-cursor\" viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M5 3l14 8-6 1.5L10 19z\"/></svg>\n</div>\n<div class=\"scx-cap\"><div class=\"scx-lb\">• Your whole school, in real time</div><div class=\"scx-dots\"><i></i><i></i><i></i><i></i><i></i></div></div>\n<div class=\"scx-disc\">Demo school · illustrative data</div>\n</div>\n<style>\n.mps-sc-anim{--sx-ink:#1E3A5F;--sx-blue:#2E86C1;--sx-tint:#EAF3FB;--sx-green:#16A34A;--sx-red:#EF4444;--sx-mute:#6B7280;--sx-line:#E8EAF0;--sx-surf:#F8FAFC;position:relative;font-family:'DM Sans',sans-serif;line-height:1.35;color:var(--sx-ink);background:#FFFFFF;border:1px solid #E8EAF0;border-radius:16px;padding:20px 18px 14px;overflow:hidden}\n.mps-sc-anim *{box-sizing:border-box;margin:0}\n.mps-sc-anim::before{content:\"\";position:absolute;top:0;left:0;right:0;height:4px;background:linear-gradient(90deg,var(--e-global-color-primary,#10112A) 0 25%,var(--e-global-color-secondary,#0046D6) 25% 50%,var(--e-global-color-accent_gold,#F4B021) 50% 75%,#F12D1A 75% 100%)}\n.scx-win{position:relative;border:1px solid var(--sx-line);border-radius:12px;overflow:hidden;background:#FFFFFF}\n.scx-chrome{display:flex;align-items:center;gap:5px;height:26px;padding:0 10px;background:var(--sx-surf);border-bottom:1px solid var(--sx-line)}\n.scx-chrome i{width:7px;height:7px;border-radius:50%;background:#D7DBE3}\n.scx-chrome span{margin-left:10px;font-size:10px;color:var(--sx-mute);background:#FFFFFF;border:1px solid var(--sx-line);border-radius:6px;padding:1px 10px}\n.scx-app{display:grid;grid-template-columns:128px 1fr;height:356px}\n.scx-side{border-right:1px solid var(--sx-line);padding:10px 6px;overflow:hidden}\n.scx-brand{padding:0 6px 8px;border-bottom:1px solid var(--sx-line);margin-bottom:6px}\n.scx-brand b{display:block;font-size:11px;font-weight:700;white-space:nowrap}\n.scx-brand em{font-style:normal;font-size:9.5px;color:var(--sx-mute)}\n.scx-nav{display:flex;align-items:center;gap:6px;font-size:10.5px;padding:5px 6px;border-radius:6px;color:#475569;white-space:nowrap;transition:background .3s,color .3s}\n.scx-nav svg{width:12px;height:12px;flex:0 0 auto;fill:none;stroke:currentColor;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}\n.scx-nav.on{background:var(--sx-tint);color:var(--sx-blue);font-weight:600}\n.scx-main{display:flex;flex-direction:column;min-width:0}\n.scx-top{display:flex;justify-content:space-between;align-items:center;height:34px;padding:0 12px;border-bottom:1px solid var(--sx-line);font-size:11px;font-weight:600}\n.scx-who{display:flex;align-items:center;gap:6px;font-weight:500}\n.scx-who em{font-style:normal;font-size:9px;color:#1D4ED8;background:#DBEAFE;border-radius:999px;padding:1px 7px}\n.scx-stage{position:relative;flex:1}\n.scx-sc{position:absolute;inset:0;padding:12px;opacity:0;transform:translateY(6px);transition:opacity .4s,transform .4s;pointer-events:none}\n.scx-sc.on{opacity:1;transform:none}\n.scx-h1{font-size:15px;font-weight:700;line-height:1.2}\n.scx-sub{font-size:10px;color:var(--sx-mute);margin:2px 0 10px}\n.scx-hrow{display:flex;justify-content:space-between;align-items:flex-start}\n.scx-st{border:1px solid var(--sx-line);border-radius:9px;padding:8px 9px;background:#FFFFFF}\n.scx-st em{display:block;font-style:normal;font-size:9.5px;color:var(--sx-mute)}\n.scx-st b{display:block;font-size:17px;font-weight:700;margin-top:2px;white-space:nowrap}\n.scx-stats4{display:grid;grid-template-columns:repeat(4,1fr);gap:7px;margin-bottom:10px}\n.scx-stats2{display:grid;grid-template-columns:1fr 1fr;gap:7px;margin-bottom:9px}\n.scx-stats2 .scx-st b{font-size:14px}\n.scx-g{color:var(--sx-green)}.scx-red{color:var(--sx-red)}.scx-blue{color:var(--sx-blue)}\n.scx-panel{border:1px solid var(--sx-line);border-radius:9px;overflow:hidden;background:#FFFFFF}\n.scx-ph{display:flex;justify-content:space-between;align-items:center;font-size:11px;font-weight:700;padding:8px 10px;border-bottom:1px solid var(--sx-line)}\n.scx-ph span{font-size:9.5px;font-weight:500;color:var(--sx-blue)}\n.scx-tr{display:grid;grid-template-columns:1.4fr .8fr .9fr;font-size:10.5px;padding:7px 10px;border-bottom:1px solid var(--sx-line);opacity:0;transform:translateX(-4px);transition:opacity .3s,transform .3s}\n.scx-tr:last-child{border-bottom:0}\n.scx-tr span:nth-child(n+2){color:var(--sx-mute)}.scx-tr span:last-child{text-align:right}\n.scx-tr.on{opacity:1;transform:none}\n.scx-btn{display:inline-flex;align-items:center;justify-content:center;font-size:10px;font-weight:600;border-radius:7px;padding:5px 10px;background:var(--sx-blue);color:#FFFFFF;border:1px solid var(--sx-blue);white-space:nowrap;transition:transform .15s,background .2s}\n.scx-ghost{background:#FFFFFF;color:var(--sx-ink);border-color:var(--sx-line)}\n.scx-btn.press{transform:scale(.94)}\n.scx-ar{display:grid;grid-template-columns:24px 1fr 62px;gap:8px;align-items:center;font-size:10.5px;padding:6px 10px;border-bottom:1px solid var(--sx-line)}\n.scx-ar:last-child{border-bottom:0}\n.scx-av{width:22px;height:22px;border-radius:50%;background:var(--sx-tint);color:var(--sx-blue);font-size:8.5px;font-weight:700;display:flex;align-items:center;justify-content:center}\n.scx-pill{font-style:normal;font-size:9px;font-weight:600;text-align:center;border-radius:999px;padding:2px 0;border:1px dashed var(--sx-line);color:var(--sx-mute)}\n.scx-pill::after{content:\"—\"}\n.scx-ar.p .scx-pill{border:1px solid transparent;background:#DCFCE7;color:var(--sx-green)}.scx-ar.p .scx-pill::after{content:\"Present\"}\n.scx-ar.a .scx-pill{border:1px solid transparent;background:#FEE2E2;color:var(--sx-red)}.scx-ar.a .scx-pill::after{content:\"Absent\"}\n.scx-foot{display:flex;justify-content:space-between;align-items:center;margin-top:9px;font-size:10px;color:var(--sx-mute)}\n.scx-toast{position:absolute;left:12px;right:12px;bottom:12px;background:#F0FDF4;border:1px solid #BBF7D0;color:#166534;font-size:10.5px;font-weight:600;border-radius:8px;padding:7px 10px;opacity:0;transform:translateY(6px);transition:opacity .3s,transform .3s}\n.scx-toast.on{opacity:1;transform:none}\n.scx-prog{padding-bottom:6px}\n.scx-pct{font-size:11px!important;font-weight:700!important}\n.scx-bar{height:7px;background:#E5E7EB;border-radius:4px;overflow:hidden;margin:8px 10px 6px}\n.scx-bar i{display:block;height:100%;width:0;background:var(--sx-blue);border-radius:4px;transition:width 1.4s cubic-bezier(.2,.7,.2,1)}\n.scx-bar.go i{width:var(--w)}\n.scx-rb i{background:#F87171}\n.scx-grade{display:grid;grid-template-columns:54px 1fr 86px;align-items:center;font-size:10px;padding:0 0 0 10px}\n.scx-grade .scx-bar{margin:6px 8px}\n.scx-grade b{font-size:10px;color:var(--sx-red);text-align:right;padding-right:10px}\n.scx-rr{display:grid;grid-template-columns:1.2fr 1fr .95fr 62px;gap:6px;align-items:center;font-size:10.5px;padding:7px 10px;border-bottom:1px solid var(--sx-line)}\n.scx-rr:last-child{border-bottom:0}\n.scx-num{font-family:ui-monospace,Menlo,monospace;font-size:9px;color:var(--sx-mute)}\n.scx-state{font-size:9.5px;color:var(--sx-mute)}\n.scx-ok{font-size:9.5px;font-weight:600;color:var(--sx-green)}\n.scx-rr .scx-btn{padding:4px 0}\n.scx-file{display:flex;align-items:center;gap:9px;margin-top:10px;border:1px solid var(--sx-line);border-radius:9px;padding:8px 10px;opacity:0;transform:translateY(8px);transition:opacity .35s,transform .35s}\n.scx-file.on{opacity:1;transform:none}\n.scx-fi{width:28px;height:32px;border-radius:5px;background:#FEE2E2;color:var(--sx-red);font-size:8.5px;font-weight:800;display:flex;align-items:center;justify-content:center;flex:0 0 auto}\n.scx-file b{display:block;font-size:10px;font-weight:600;word-break:break-all}\n.scx-file em{font-style:normal;font-size:9px;color:var(--sx-mute)}\n.scx-dl{margin-left:auto;color:var(--sx-blue);font-weight:700}\n.scx-phone{position:absolute;top:34px;right:22px;width:196px;height:346px;background:var(--sx-surf);border:6px solid #10112A;border-radius:26px;overflow:hidden;opacity:0;transform:translateY(30px);transition:opacity .45s,transform .45s;pointer-events:none}\n.scx-phone.on{opacity:1;transform:none}\n.scx-pt{background:#FFFFFF;border-bottom:1px solid var(--sx-line);padding:14px 10px 7px}\n.scx-pt b{display:block;font-size:10.5px;font-weight:700}.scx-pt em{font-style:normal;font-size:9px;color:var(--sx-mute)}\n.scx-pb{padding:9px}\n.scx-hi{font-size:12.5px;font-weight:700}.scx-date{font-size:8.5px;color:var(--sx-mute);margin-bottom:8px}\n.scx-kid{background:#FFFFFF;border:1px solid var(--sx-line);border-radius:10px;padding:8px}\n.scx-kh{display:flex;align-items:center;gap:7px;margin-bottom:7px}\n.scx-kav{width:26px;height:26px;border-radius:50%;background:var(--sx-tint);color:var(--sx-blue);font-size:9px;font-weight:700;display:flex;align-items:center;justify-content:center}\n.scx-kh b{display:block;font-size:10.5px}.scx-kh em{font-style:normal;font-size:8.5px;color:var(--sx-mute)}\n.scx-kst{display:grid;grid-template-columns:1fr 1fr;gap:5px;margin-bottom:6px}\n.scx-kst>div{background:var(--sx-surf);border-radius:7px;padding:6px}\n.scx-kst em{display:block;font-style:normal;font-size:7.5px;color:var(--sx-mute)}\n.scx-kst b{display:block;font-size:15px;font-weight:700}\n.scx-kst small{font-size:7px;color:var(--sx-mute)}\n.scx-tiles{display:grid;grid-template-columns:1fr 1fr;gap:4px}\n.scx-tiles span{font-size:8px;font-weight:500;border:1px solid var(--sx-line);border-radius:6px;padding:5px 6px}\n.scx-ann{display:flex;justify-content:space-between;margin-top:7px;font-size:9px;background:var(--sx-tint);border:1px solid #CFE3F5;border-radius:8px;padding:7px 8px}\n.scx-ann span{color:var(--sx-blue)}\n.scx-win.dim .scx-app{opacity:.35;transition:opacity .4s}\n.scx-app{transition:opacity .4s}\n.scx-cursor{position:absolute;left:70%;top:70%;width:18px;height:18px;fill:#10112A;stroke:#FFFFFF;stroke-width:1.5;opacity:0;transition:left .7s cubic-bezier(.4,0,.2,1),top .7s cubic-bezier(.4,0,.2,1),opacity .3s;pointer-events:none;z-index:5}\n.scx-cursor.on{opacity:1}\n.scx-cursor.click{animation:scxclk .3s}\n@keyframes scxclk{50%{transform:scale(.8)}}\n.scx-cap{display:flex;justify-content:space-between;align-items:center;margin-top:12px}\n.scx-lb{font-size:11px;letter-spacing:2px;text-transform:uppercase;font-weight:600;color:var(--e-global-color-accent_gold,#F4B021);transition:opacity .25s}\n.scx-dots{display:flex;gap:5px}\n.scx-dots i{width:6px;height:6px;border-radius:50%;background:var(--sx-line);transition:background .3s,width .3s}\n.scx-dots i.on{width:16px;border-radius:3px;background:var(--e-global-color-secondary,#0046D6)}\n.scx-disc{font-size:9.5px;text-align:right;opacity:.45;margin-top:6px}\n@media(max-width:560px){.mps-sc-anim{padding:18px 12px 12px}.scx-app{grid-template-columns:1fr;height:372px}.scx-side{display:none}.scx-stats4{grid-template-columns:1fr 1fr}.scx-panel .scx-tr:nth-child(4){display:none}.scx-rr{grid-template-columns:1.2fr .95fr 56px}.scx-num{display:none}.scx-phone{left:50%;right:auto;margin-left:-98px}.scx-lb{font-size:10px;letter-spacing:1.5px}}\n</style>\n<script>\n(function(){\nvar root=document.querySelector('.mps-sc-anim');if(!root)return;\nvar Q=function(s,c){return (c||root).querySelector(s)},QA=function(s,c){return Array.prototype.slice.call((c||root).querySelectorAll(s))};\nvar win=Q('.scx-win'),sc=QA('.scx-sc'),nav=QA('.scx-nav'),dots=QA('.scx-dots i'),lb=Q('.scx-lb'),cur=Q('.scx-cursor'),phone=Q('.scx-phone');\nvar CAP=['• Your whole school, in real time','• Attendance in under 2 minutes','• Every rand tracked','• Report cards in one click','• Parents stay in the loop'];\nvar D=[4200,6400,4800,5800,5000],T=[];\nvar reduce=window.matchMedia&&window.matchMedia('(prefers-reduced-motion:reduce)').matches;\nfunction at(ms,f){T.push(setTimeout(f,ms));}\nfunction rands(v){return 'R'+Math.round(v).toString().replace(/\\B(?=(\\d{3})+(?!\\d))/g,' ')+',00';}\nfunction cnt(el,ms){var to=+el.getAttribute('data-to'),suf=el.getAttribute('data-suf')||'',r=el.classList.contains('scx-r'),s=performance.now();\n(function f(t){var p=Math.min((t-s)/ms,1),v=to*(1-Math.pow(1-p,3));el.textContent=r?rands(v):Math.round(v)+suf;if(p<1)requestAnimationFrame(f);})(s);}\nfunction point(el){if(!el)return;var w=win.getBoundingClientRect(),r=el.getBoundingClientRect();cur.style.left=(r.left-w.left+r.width*.55)+'px';cur.style.top=(r.top-w.top+r.height*.55)+'px';cur.classList.add('on');}\nfunction click(el){cur.classList.remove('click');void cur.offsetWidth;cur.classList.add('click');if(el){el.classList.add('press');setTimeout(function(){el.classList.remove('press');},180);}}\nfunction show(i){sc.forEach(function(s,k){s.classList.toggle('on',k===i);});dots.forEach(function(d,k){d.classList.toggle('on',k===i);});\nnav.forEach(function(n){n.classList.toggle('on',n.getAttribute('data-n')==String(i));});\nlb.style.opacity=0;setTimeout(function(){lb.textContent=CAP[i];lb.style.opacity=1;},200);\nphone.classList.toggle('on',i===4);win.classList.toggle('dim',i===4);if(i!==1&&i!==3)cur.classList.remove('on');}\nfunction reset(){QA('.scx-tr').forEach(function(e){e.classList.remove('on');});QA('.scx-c,.scx-r').forEach(function(e){e.textContent=e.classList.contains('scx-r')?'R0,00':'0'+(e.getAttribute('data-suf')||'');});\nQA('.scx-ar').forEach(function(e){e.classList.remove('p','a');});Q('.scx-cnt').textContent='0 of 32 marked';Q('.scx-toast').classList.remove('on');\nQA('.scx-bar').forEach(function(e){e.classList.remove('go');});Q('.scx-pct').textContent='0%';\nvar t=Q('.scx-target');Q('.scx-state',t).textContent='Not generated';Q('.scx-state',t).className='scx-state';var g=Q('.scx-genbtn');g.textContent='Generate';g.className='scx-btn scx-ghost scx-genbtn';\nQ('.scx-gen').textContent='1 of 25 generated';Q('.scx-file').classList.remove('on');cur.classList.remove('on');}\nfunction run(){T.forEach(clearTimeout);T=[];reset();var t=0;\nshow(0);QA('[data-s=\"0\"] .scx-c').forEach(function(e){cnt(e,1300);});QA('.scx-tr').forEach(function(e,k){at(500+k*250,function(){e.classList.add('on');});});\nt+=D[0];at(t,function(){show(1);});\nat(t+700,function(){point(Q('.scx-all'));});\nat(t+1500,function(){click(Q('.scx-all'));QA('.scx-ar').forEach(function(e,k){setTimeout(function(){e.classList.add('p');},k*90);});Q('.scx-cnt').textContent='32 of 32 marked';});\nat(t+2500,function(){point(Q('.scx-abs .scx-pill'));});\nat(t+3300,function(){click();var a=Q('.scx-abs');a.classList.remove('p');a.classList.add('a');});\nat(t+4000,function(){point(Q('.scx-sub-btn'));});\nat(t+4800,function(){click(Q('.scx-sub-btn'));Q('.scx-toast').classList.add('on');});\nt+=D[1];at(t,function(){show(2);QA('[data-s=\"2\"] .scx-r,[data-s=\"2\"] .scx-c').forEach(function(e){cnt(e,1500);});\nsetTimeout(function(){QA('[data-s=\"2\"] .scx-bar').forEach(function(e){e.classList.add('go');});var p=Q('.scx-pct');p.setAttribute('data-to','68');p.setAttribute('data-suf','%');cnt(p,1400);},300);});\nt+=D[2];at(t,function(){show(3);});\nat(t+800,function(){point(Q('.scx-genbtn'));});\nat(t+1600,function(){var g=Q('.scx-genbtn');click(g);g.textContent='…';});\nat(t+2400,function(){var r=Q('.scx-target'),s=Q('.scx-state',r);s.textContent='✓ Generated';s.className='scx-state scx-ok';var g=Q('.scx-genbtn');g.textContent='PDF';g.className='scx-btn scx-genbtn';Q('.scx-gen').textContent='2 of 25 generated';});\nat(t+3000,function(){point(Q('.scx-genbtn'));});\nat(t+3600,function(){click(Q('.scx-genbtn'));Q('.scx-file').classList.add('on');});\nt+=D[3];at(t,function(){show(4);cnt(Q('.scx-phone .scx-c'),1300);});\nt+=D[4];at(t,run);}\nvar started=false;\nfunction still(){show(0);QA('.scx-c,.scx-r').forEach(function(e){var to=+e.getAttribute('data-to');e.textContent=e.classList.contains('scx-r')?rands(to):to+(e.getAttribute('data-suf')||'');});QA('.scx-tr').forEach(function(e){e.classList.add('on');});}\nif(reduce){still();return;}\nif('IntersectionObserver' in window){new IntersectionObserver(function(en){en.forEach(function(e){if(e.isIntersecting&&!started){started=true;run();}else if(!e.isIntersecting&&started){started=false;T.forEach(clearTimeout);T=[];}});},{threshold:.2}).observe(root);}else{run();}\n})();\n</script>\n"
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "html",
+              "elType": "widget"
+            }
+          ],
+          "isInner": false,
+          "elType": "column"
+        }
+      ],
+      "isInner": false,
+      "elType": "section"
+    },
+    {
+      "id": "sc2s001a",
+      "settings": {
+        "background_background": "classic",
+        "padding": {
+          "unit": "px",
+          "top": "80",
+          "right": "0",
+          "bottom": "80",
+          "left": "0",
+          "isLinked": false
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "56",
+          "right": "24",
+          "bottom": "56",
+          "left": "24",
+          "isLinked": false
+        },
+        "__globals__": {
+          "background_color": "globals/colors?id=light"
+        }
+      },
+      "elements": [
+        {
+          "id": "sc2c001a",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "sc2w001a",
+              "settings": {
+                "html": "<div class=\"mps-sb\"><div class=\"mps-sb-grid\"><div class=\"sb-item\"><div class=\"sb-num\">Grade R-12</div><div class=\"sb-lbl\">Full SA curriculum coverage</div></div><div class=\"sb-item\"><div class=\"sb-num\">5</div><div class=\"sb-lbl\">Modules in one system</div></div><div class=\"sb-item\"><div class=\"sb-num\">2 min</div><div class=\"sb-lbl\">To mark a full class register</div></div><div class=\"sb-item\"><div class=\"sb-num\">1</div><div class=\"sb-lbl\">Login for teachers, admin and principal</div></div></div></div><style>.mps-sb{max-width:1140px;margin:0 auto;padding:0 24px}.mps-sb-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:0;border:1px solid #E8EAF0;border-radius:16px;overflow:hidden;background:#FFFFFF}.sb-item{padding:36px 28px;border-right:1px solid #E8EAF0;text-align:center}.sb-item:last-child{border-right:none}.sb-num{font-family:Montserrat,sans-serif;font-weight:800;font-size:32px;line-height:1;background:linear-gradient(135deg,var(--e-global-color-primary),var(--e-global-color-secondary));-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent;color:transparent;margin-bottom:8px}.sb-lbl{font-size:14px;color:var(--e-global-color-text);opacity:.7}@media(max-width:768px){.mps-sb-grid{grid-template-columns:repeat(2,1fr)}.sb-item:nth-child(2){border-right:none}.sb-item:nth-child(3),.sb-item:nth-child(4){border-top:1px solid #E8EAF0}}</style>"
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "html",
+              "elType": "widget"
+            }
+          ],
+          "isInner": false,
+          "elType": "column"
+        }
+      ],
+      "isInner": false,
+      "elType": "section"
+    },
+    {
+      "id": "sc3s001a",
+      "settings": {
+        "background_background": "classic",
+        "padding": {
+          "unit": "px",
+          "top": "120",
+          "right": "0",
+          "bottom": "120",
+          "left": "0",
+          "isLinked": false
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "72",
+          "right": "24",
+          "bottom": "72",
+          "left": "24",
+          "isLinked": false
+        },
+        "__globals__": {
+          "background_color": "globals/colors?id=light"
+        }
+      },
+      "elements": [
+        {
+          "id": "sc3c001a",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "sc3w001a",
+              "settings": {
+                "title": "• Features",
+                "header_size": "div",
+                "align": "center",
+                "margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "16",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "__globals__": {
+                  "title_color": "globals/colors?id=accent_gold",
+                  "typography_typography": "globals/typography?id=accent"
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "heading",
+              "elType": "widget"
+            },
+            {
+              "id": "sc3w002a",
+              "settings": {
+                "title": "Everything Your School Needs, in One System",
+                "align": "center",
+                "margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "50",
+                  "left": "0",
+                  "isLinked": false
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "heading",
+              "elType": "widget"
+            },
+            {
+              "id": "sc3w003a",
+              "settings": {
+                "html": "<div class=\"mps-feat\"><div class=\"mps-feat-grid\"><article class=\"feat\"><div class=\"feat-ic\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M9 5H7a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-2M9 5a2 2 0 0 0 2 2h2a2 2 0 0 0 2-2M9 5a2 2 0 0 1 2-2h2a2 2 0 0 1 2 2M9 12l2 2 4-4\"/></svg></div><h4>Attendance Management</h4><p>Mark register in under 2 minutes per class. Real-time visibility for every teacher and the principal.</p></article><article class=\"feat\"><div class=\"feat-ic\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2\"/><circle cx=\"9\" cy=\"7\" r=\"4\"/><path d=\"M23 21v-2a4 4 0 0 0-3-3.87M16 3.13a4 4 0 0 1 0 7.75\"/></svg></div><h4>Student Profiles</h4><p>Every learner's academic record, medical notes, parent contacts and fee status in one place.</p></article><article class=\"feat\"><div class=\"feat-ic\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M12 20h9M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z\"/></svg></div><h4>Marks and Reports</h4><p>Enter results once. Averages, rankings and report cards generate automatically.</p></article><article class=\"feat\"><div class=\"feat-ic\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"1\" y=\"4\" width=\"22\" height=\"16\" rx=\"2\" ry=\"2\"/><line x1=\"1\" y1=\"10\" x2=\"23\" y2=\"10\"/></svg></div><h4>Fee Tracking</h4><p>See exactly who has paid, who owes and how much. Send payment reminders in one click.</p></article><article class=\"feat\"><div class=\"feat-ic\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><path d=\"M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07A19.5 19.5 0 0 1 4.69 12 19.79 19.79 0 0 1 1.6 3.43 2 2 0 0 1 3.59 1h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 8a16 16 0 0 0 6 6l.27-.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 21 16l.92.92z\"/></svg></div><h4>Parent Communication</h4><p>Notify parents about absences, results and school announcements directly from the system.</p></article><article class=\"feat\"><div class=\"feat-ic\"><svg viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.5\"><rect x=\"3\" y=\"3\" width=\"18\" height=\"18\" rx=\"2\"/><path d=\"M3 9h18M9 21V9\"/></svg></div><h4>Principal Dashboard</h4><p>Your whole school at a glance: attendance rates, fee collection and class performance updated live.</p></article></div></div><style>.mps-feat-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:24px}.mps-feat .feat{background:var(--e-global-color-light);border:1px solid #E8EAF0;border-radius:16px;padding:30px;transition:border-color .2s}.mps-feat .feat:hover{border-color:var(--e-global-color-secondary)}.mps-feat .feat-ic{color:var(--e-global-color-secondary);line-height:0;margin-bottom:16px}.mps-feat .feat-ic svg{width:30px;height:30px}.mps-feat h4{font-family:Montserrat,sans-serif;font-weight:700;font-size:18px;color:var(--e-global-color-text);margin:0 0 8px}.mps-feat p{font-size:15px;line-height:1.6;color:var(--e-global-color-text);opacity:.72;margin:0}@media(max-width:900px){.mps-feat-grid{grid-template-columns:repeat(2,1fr)}}@media(max-width:560px){.mps-feat-grid{grid-template-columns:1fr}}</style>"
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "html",
+              "elType": "widget"
+            }
+          ],
+          "isInner": false,
+          "elType": "column"
+        }
+      ],
+      "isInner": false,
+      "elType": "section"
+    },
+    {
+      "id": "sc4s001a",
+      "settings": {
+        "background_background": "classic",
+        "padding": {
+          "unit": "px",
+          "top": "120",
+          "right": "0",
+          "bottom": "120",
+          "left": "0",
+          "isLinked": false
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "72",
+          "right": "24",
+          "bottom": "72",
+          "left": "24",
+          "isLinked": false
+        },
+        "__globals__": {
+          "background_color": "globals/colors?id=light"
+        }
+      },
+      "elements": [
+        {
+          "id": "sc4c001a",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "sc4w001a",
+              "settings": {
+                "title": "• Setup",
+                "header_size": "div",
+                "align": "center",
+                "margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "16",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "__globals__": {
+                  "title_color": "globals/colors?id=accent_gold",
+                  "typography_typography": "globals/typography?id=accent"
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "heading",
+              "elType": "widget"
+            },
+            {
+              "id": "sc4w002a",
+              "settings": {
+                "title": "Up and Running in 5 Days",
+                "align": "center",
+                "margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "50",
+                  "left": "0",
+                  "isLinked": false
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "heading",
+              "elType": "widget"
+            },
+            {
+              "id": "sc4w003a",
+              "settings": {
+                "html": "<div class=\"mps-how\"><div class=\"mps-how-grid\"><div class=\"how-item\"><div class=\"how-num\">1</div><h4>We Set It Up For You</h4><p>We configure School Companion for your school: grades, subjects, staff accounts and fee structure. You provide the information, we do the technical work.</p></div><div class=\"how-item\"><div class=\"how-num\">2</div><h4>Your Staff Log In and Start</h4><p>Teachers mark attendance and capture marks. Admin captures fees. The principal sees everything.</p></div><div class=\"how-item\"><div class=\"how-num\">3</div><h4>The System Does the Rest</h4><p>Report cards generate automatically. Fee reminders go out automatically. You stay informed without chasing anyone.</p></div></div></div><style>.mps-how-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:28px}.mps-how .how-item{background:var(--e-global-color-light);border:1px solid #E8EAF0;border-radius:16px;padding:36px 28px}.mps-how .how-num{font-family:Montserrat,sans-serif;font-weight:800;font-size:48px;line-height:1;background:linear-gradient(135deg,var(--e-global-color-primary),var(--e-global-color-secondary));-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent;color:transparent;margin-bottom:16px}.mps-how h4{font-family:Montserrat,sans-serif;font-weight:700;font-size:19px;color:var(--e-global-color-text);margin:0 0 10px}.mps-how p{font-size:15px;line-height:1.65;color:var(--e-global-color-text);opacity:.72;margin:0}@media(max-width:768px){.mps-how-grid{grid-template-columns:1fr;max-width:520px;margin:0 auto}}</style>"
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "html",
+              "elType": "widget"
+            }
+          ],
+          "isInner": false,
+          "elType": "column"
+        }
+      ],
+      "isInner": false,
+      "elType": "section"
+    },
+    {
+      "id": "sc5s001a",
+      "settings": {
+        "background_background": "classic",
+        "padding": {
+          "unit": "px",
+          "top": "120",
+          "right": "0",
+          "bottom": "120",
+          "left": "0",
+          "isLinked": false
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "72",
+          "right": "24",
+          "bottom": "72",
+          "left": "24",
+          "isLinked": false
+        },
+        "__globals__": {
+          "background_color": "globals/colors?id=light"
+        }
+      },
+      "elements": [
+        {
+          "id": "sc5c001a",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "sc5w001a",
+              "settings": {
+                "title": "• Right Fit",
+                "header_size": "div",
+                "align": "center",
+                "margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "16",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "__globals__": {
+                  "title_color": "globals/colors?id=accent_gold",
+                  "typography_typography": "globals/typography?id=accent"
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "heading",
+              "elType": "widget"
+            },
+            {
+              "id": "sc5w002a",
+              "settings": {
+                "title": "Is School Companion Right for Your School?",
+                "align": "center",
+                "margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "50",
+                  "left": "0",
+                  "isLinked": false
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "heading",
+              "elType": "widget"
+            },
+            {
+              "id": "sc5w003a",
+              "settings": {
+                "html": "<div class=\"mps-fit\"><div class=\"mps-fit-grid\"><div class=\"fit-col fit-yes\"><div class=\"fit-head\"><svg viewBox=\"0 0 20 20\" fill=\"currentColor\" width=\"20\" height=\"20\"><path d=\"M16.707 5.293a1 1 0 0 0-1.414 0L8 12.586 4.707 9.293a1 1 0 0 0-1.414 1.414l4 4a1 1 0 0 0 1.414 0l8-8a1 1 0 0 0 0-1.414z\"/></svg>Good fit</div><ul><li>Independent and private schools, Grade R to 12</li><li>Schools with 50 to 5,000 learners</li><li>Principals who want real-time visibility into attendance, marks and fees</li><li>Schools currently managing records in Excel, paper registers or WhatsApp groups</li></ul></div><div class=\"fit-col fit-no\"><div class=\"fit-head\"><svg viewBox=\"0 0 20 20\" fill=\"currentColor\" width=\"20\" height=\"20\"><path d=\"M4.293 4.293a1 1 0 0 1 1.414 0L10 8.586l4.293-4.293a1 1 0 1 1 1.414 1.414L11.414 10l4.293 4.293a1 1 0 0 1-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 0 1-1.414-1.414L8.586 10 4.293 5.707a1 1 0 0 1 0-1.414z\"/></svg>Not the right fit</div><ul><li>Public schools on the South African government CEMIS system</li><li>Universities and tertiary institutions</li><li>Schools outside South Africa</li></ul></div></div></div><style>.mps-fit-grid{display:grid;grid-template-columns:1fr 1fr;gap:24px}.mps-fit .fit-col{background:var(--e-global-color-light);border:1px solid #E8EAF0;border-radius:16px;padding:32px}.mps-fit .fit-head{display:flex;align-items:center;gap:10px;font-family:Montserrat,sans-serif;font-weight:700;font-size:17px;margin-bottom:20px}.mps-fit .fit-yes .fit-head{color:#1A9E4B}.mps-fit .fit-no .fit-head{color:var(--e-global-color-accent_red,#F12D1A)}.mps-fit ul{list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:12px}.mps-fit li{font-size:15px;line-height:1.55;color:var(--e-global-color-text);padding-left:18px;position:relative}.mps-fit li::before{content:\"\";position:absolute;left:0;top:8px;width:6px;height:6px;border-radius:50%}.mps-fit .fit-yes li::before{background:#1A9E4B}.mps-fit .fit-no li::before{background:var(--e-global-color-accent_red,#F12D1A)}@media(max-width:768px){.mps-fit-grid{grid-template-columns:1fr}}</style>"
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "html",
+              "elType": "widget"
+            }
+          ],
+          "isInner": false,
+          "elType": "column"
+        }
+      ],
+      "isInner": false,
+      "elType": "section"
+    },
+    {
+      "id": "sc6s001a",
+      "settings": {
+        "_element_id": "pricing",
+        "background_background": "classic",
+        "padding": {
+          "unit": "px",
+          "top": "120",
+          "right": "0",
+          "bottom": "120",
+          "left": "0",
+          "isLinked": false
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "72",
+          "right": "24",
+          "bottom": "72",
+          "left": "24",
+          "isLinked": false
+        },
+        "__globals__": {
+          "background_color": "globals/colors?id=surface"
+        }
+      },
+      "elements": [
+        {
+          "id": "sc6c001a",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "sc6w001a",
+              "settings": {
+                "title": "• Pricing",
+                "header_size": "div",
+                "align": "center",
+                "margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "16",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "__globals__": {
+                  "title_color": "globals/colors?id=accent_gold",
+                  "typography_typography": "globals/typography?id=accent"
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "heading",
+              "elType": "widget"
+            },
+            {
+              "id": "sc6w002a",
+              "settings": {
+                "title": "Simple Monthly Pricing. No Contracts.",
+                "align": "center",
+                "margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "50",
+                  "left": "0",
+                  "isLinked": false
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "heading",
+              "elType": "widget"
+            },
+            {
+              "id": "sc6w003a",
+              "settings": {
+                "html": "<div class=\"mps-price\"><div class=\"gap-banner\">Pricing is being confirmed. Contact us for a quote based on your school's learner count. No setup fees. Cancel anytime.</div><div class=\"mps-price-grid\"><article class=\"pc\"><div class=\"pc-name\">Starter</div><div class=\"pc-tag\">For smaller schools getting started.</div><ul class=\"pc-list\"><li>Up to 150 learners</li><li>Attendance, marks, fees and communication</li><li>Parent SMS and email notifications</li><li>1 campus</li><li>Email support</li></ul><a class=\"pc-cta\" href=\"/contact-us/?service=school-companion&amp;tier=starter\">Get a Quote</a></article><article class=\"pc pc-feat\"><span class=\"pc-ribbon\">Most Popular</span><div class=\"pc-name\">School</div><div class=\"pc-tag\">Full system for established schools.</div><div class=\"pc-plus\">Everything in Starter, plus:</div><ul class=\"pc-list\"><li>Up to 500 learners</li><li>Report card generation (PDF, one click)</li><li>Parent portal access</li><li>Priority email and WhatsApp support</li><li>1 campus</li></ul><a class=\"pc-cta\" href=\"/contact-us/?service=school-companion&amp;tier=school\">Get a Quote</a></article><article class=\"pc\"><span class=\"pc-badge\">Best Value</span><div class=\"pc-name\">Campus</div><div class=\"pc-tag\">For multi-campus schools and groups.</div><div class=\"pc-plus\">Everything in School, plus:</div><ul class=\"pc-list\"><li>Unlimited learners</li><li>Multiple campuses under one login</li><li>Dedicated onboarding session</li><li>Monthly check-in call</li></ul><a class=\"pc-cta\" href=\"/contact-us/?service=school-companion&amp;tier=campus\">Get a Quote</a></article></div><div class=\"sc-addons\"><h4>Optional add-ons</h4><div class=\"sc-ao-grid\"><div class=\"sc-ao\"><b>Additional campus</b><span>Contact us for pricing</span><p>Run a second campus under the same subscription.</p></div><div class=\"sc-ao\"><b>Payroll module</b><span>Contact us for pricing</span><p>Staff salary processing integrated with your school records.</p></div><div class=\"sc-ao\"><b>Custom school website</b><span>from R8,500 once-off</span><p>A professional website built and maintained by MPS.</p></div></div></div></div><style>.mps-price .gap-banner{background:#FFF4E8;border:1px solid #F4B021;border-left:4px solid #F4B021;border-radius:12px;padding:18px 24px;margin-bottom:32px;font-size:15px;line-height:1.6;color:var(--e-global-color-text);text-align:center}.mps-price-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;align-items:stretch;margin-bottom:40px}.mps-price .pc{position:relative;background:var(--e-global-color-light);border:1px solid #E8EAF0;border-radius:18px;padding:32px 24px;display:flex;flex-direction:column;gap:10px;height:100%}.mps-price .pc-name{font-family:Montserrat,sans-serif;font-weight:700;font-size:22px;color:var(--e-global-color-text)}.mps-price .pc-tag{font-style:italic;font-size:14px;color:var(--e-global-color-text);opacity:.7}.mps-price .pc-plus{font-family:Montserrat,sans-serif;font-weight:600;font-size:13px;color:var(--e-global-color-secondary)}.mps-price .pc-list{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:8px}.mps-price .pc-list li{padding-left:22px;position:relative;font-size:14px;line-height:1.45;color:var(--e-global-color-text)}.mps-price .pc-list li::before{content:\"\\2713\";position:absolute;left:0;color:var(--e-global-color-secondary);font-weight:700}.mps-price .pc-cta{margin-top:auto;text-align:center;font-family:Montserrat,sans-serif;font-weight:600;font-size:14px;padding:13px 18px;border-radius:8px;text-decoration:none;background:var(--e-global-color-secondary);color:#FFFFFF;display:block}.mps-price .pc-ribbon,.mps-price .pc-badge{position:absolute;top:16px;right:16px;background:var(--e-global-color-accent_gold);color:var(--e-global-color-primary);font-family:Montserrat,sans-serif;font-weight:700;font-size:11px;letter-spacing:.5px;text-transform:uppercase;padding:5px 10px;border-radius:999px}.mps-price .pc-feat{background:linear-gradient(135deg,var(--e-global-color-primary),var(--e-global-color-secondary));border-color:transparent}.mps-price .pc-feat .pc-name,.mps-price .pc-feat .pc-tag,.mps-price .pc-feat .pc-list li{color:#FFFFFF;opacity:.95}.mps-price .pc-feat .pc-list li::before,.mps-price .pc-feat .pc-plus{color:var(--e-global-color-accent_gold)}.mps-price .pc-feat .pc-cta{background:#FFFFFF;color:var(--e-global-color-primary)}.mps-price .sc-addons h4{font-family:Montserrat,sans-serif;font-weight:700;font-size:20px;color:var(--e-global-color-text);margin:0 0 20px}.mps-price .sc-ao-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}.mps-price .sc-ao{background:var(--e-global-color-light);border:1px solid #E8EAF0;border-radius:12px;padding:22px}.mps-price .sc-ao b{display:block;font-family:Montserrat,sans-serif;font-weight:600;font-size:16px;color:var(--e-global-color-text);margin-bottom:4px}.mps-price .sc-ao span{display:block;font-family:Montserrat,sans-serif;font-weight:700;font-size:14px;color:var(--e-global-color-secondary);margin-bottom:8px}.mps-price .sc-ao p{font-size:14px;line-height:1.55;color:var(--e-global-color-text);opacity:.7;margin:0}@media(max-width:900px){.mps-price-grid{grid-template-columns:1fr;max-width:480px;margin-left:auto;margin-right:auto}.mps-price .sc-ao-grid{grid-template-columns:1fr}}</style>"
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "html",
+              "elType": "widget"
+            }
+          ],
+          "isInner": false,
+          "elType": "column"
+        }
+      ],
+      "isInner": false,
+      "elType": "section"
+    },
+    {
+      "id": "sc7s001a",
+      "settings": {
+        "background_background": "classic",
+        "padding": {
+          "unit": "px",
+          "top": "120",
+          "right": "0",
+          "bottom": "120",
+          "left": "0",
+          "isLinked": false
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "72",
+          "right": "24",
+          "bottom": "72",
+          "left": "24",
+          "isLinked": false
+        },
+        "__globals__": {
+          "background_color": "globals/colors?id=light"
+        }
+      },
+      "elements": [
+        {
+          "id": "sc7c001a",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "sc7w001a",
+              "settings": {
+                "title": "• Made for SA Schools",
+                "header_size": "div",
+                "align": "center",
+                "margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "16",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "__globals__": {
+                  "title_color": "globals/colors?id=accent_gold",
+                  "typography_typography": "globals/typography?id=accent"
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "heading",
+              "elType": "widget"
+            },
+            {
+              "id": "sc7w002a",
+              "settings": {
+                "title": "Built for South African Schools",
+                "align": "center",
+                "margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "50",
+                  "left": "0",
+                  "isLinked": false
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "heading",
+              "elType": "widget"
+            },
+            {
+              "id": "sc7w003a",
+              "settings": {
+                "html": "<div class=\"mps-sa\"><div class=\"mps-sa-grid\"><div class=\"sa-item\"><div class=\"sa-num\">1</div><div><h4>CAPS-aligned</h4><p>Grade R to 12 subject and assessment structure built in. No manual configuration.</p></div></div><div class=\"sa-item\"><div class=\"sa-num\">2</div><div><h4>South African data</h4><p>Your school's data is stored on South African servers. Not shared with third parties.</p></div></div><div class=\"sa-item\"><div class=\"sa-num\">3</div><div><h4>Load shedding proof</h4><p>Works offline and syncs automatically when connectivity returns.</p></div></div><div class=\"sa-item\"><div class=\"sa-num\">4</div><div><h4>Any device</h4><p>Works on any device with a browser. No app to install, no hardware required.</p></div></div></div></div><style>.mps-sa-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:24px}.mps-sa .sa-item{background:var(--e-global-color-light);border:1px solid #E8EAF0;border-radius:16px;padding:32px;display:flex;align-items:flex-start;gap:20px}.mps-sa .sa-num{width:48px;height:48px;border-radius:50%;background:linear-gradient(135deg,var(--e-global-color-primary),var(--e-global-color-secondary));color:#FFFFFF;font-family:Montserrat,sans-serif;font-weight:800;font-size:20px;display:flex;align-items:center;justify-content:center;flex-shrink:0}.mps-sa h4{font-family:Montserrat,sans-serif;font-weight:700;font-size:18px;color:var(--e-global-color-text);margin:0 0 8px}.mps-sa p{font-size:15px;line-height:1.6;color:var(--e-global-color-text);opacity:.72;margin:0}@media(max-width:768px){.mps-sa-grid{grid-template-columns:1fr}}</style>"
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "html",
+              "elType": "widget"
+            }
+          ],
+          "isInner": false,
+          "elType": "column"
+        }
+      ],
+      "isInner": false,
+      "elType": "section"
+    },
+    {
+      "id": "sc8s001a",
+      "settings": {
+        "background_background": "classic",
+        "padding": {
+          "unit": "px",
+          "top": "120",
+          "right": "0",
+          "bottom": "120",
+          "left": "0",
+          "isLinked": false
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "72",
+          "right": "24",
+          "bottom": "72",
+          "left": "24",
+          "isLinked": false
+        },
+        "__globals__": {
+          "background_color": "globals/colors?id=light"
+        }
+      },
+      "elements": [
+        {
+          "id": "sc8c001a",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "sc8w001a",
+              "settings": {
+                "title": "• Transparency",
+                "header_size": "div",
+                "align": "center",
+                "margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "16",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "__globals__": {
+                  "title_color": "globals/colors?id=accent_gold",
+                  "typography_typography": "globals/typography?id=accent"
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "heading",
+              "elType": "widget"
+            },
+            {
+              "id": "sc8w002a",
+              "settings": {
+                "title": "What School Companion Does Not Do (Yet)",
+                "align": "center",
+                "margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "50",
+                  "left": "0",
+                  "isLinked": false
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "heading",
+              "elType": "widget"
+            },
+            {
+              "id": "sc8w003a",
+              "settings": {
+                "html": "<div class=\"mps-not\"><ul class=\"not-list\"><li><span class=\"not-x\">&#10005;</span><div><b>SACE / GDE / DBE compliance reporting</b><p>We are working on this and will add it in a future release.</p></div></li><li><span class=\"not-x\">&#10005;</span><div><b>Integration with CEMIS (government schools system)</b><p>School Companion is for independent and private schools, not government CEMIS users.</p></div></li><li><span class=\"not-x\">&#10005;</span><div><b>Payroll processing</b><p>Available as a paid add-on. Not included in the base subscription.</p></div></li><li><span class=\"not-x\">&#10005;</span><div><b>Custom branded mobile app</b><p>Not available at this stage. The system works on mobile browsers without an app.</p></div></li></ul></div><style>.mps-not .not-list{list-style:none;margin:0 auto;padding:0;max-width:720px;display:flex;flex-direction:column;gap:0;border:1px solid #E8EAF0;border-radius:16px;overflow:hidden}.mps-not .not-list li{display:flex;align-items:flex-start;gap:16px;padding:22px 28px;border-bottom:1px solid #E8EAF0;background:var(--e-global-color-light)}.mps-not .not-list li:last-child{border-bottom:none}.mps-not .not-x{width:28px;height:28px;border-radius:50%;background:#FEE2E2;display:flex;align-items:center;justify-content:center;font-size:12px;color:#F12D1A;font-weight:700;flex-shrink:0;margin-top:2px}.mps-not b{display:block;font-family:Montserrat,sans-serif;font-weight:700;font-size:16px;color:var(--e-global-color-text);margin-bottom:4px}.mps-not p{font-size:14px;color:var(--e-global-color-text);opacity:.7;margin:0;line-height:1.55}</style>"
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "html",
+              "elType": "widget"
+            }
+          ],
+          "isInner": false,
+          "elType": "column"
+        }
+      ],
+      "isInner": false,
+      "elType": "section"
+    },
+    {
+      "id": "sc9s001a",
+      "settings": {
+        "background_background": "classic",
+        "padding": {
+          "unit": "px",
+          "top": "120",
+          "right": "0",
+          "bottom": "120",
+          "left": "0",
+          "isLinked": false
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "72",
+          "right": "24",
+          "bottom": "72",
+          "left": "24",
+          "isLinked": false
+        },
+        "__globals__": {
+          "background_color": "globals/colors?id=light"
+        }
+      },
+      "elements": [
+        {
+          "id": "sc9c001a",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null,
+            "padding": {
+              "unit": "px",
+              "top": "0",
+              "right": "170",
+              "bottom": "0",
+              "left": "170",
+              "isLinked": false
+            },
+            "padding_tablet": {
+              "unit": "px",
+              "top": "0",
+              "right": "0",
+              "bottom": "0",
+              "left": "0",
+              "isLinked": false
+            }
+          },
+          "elements": [
+            {
+              "id": "sc9w001a",
+              "settings": {
+                "title": "• Questions",
+                "header_size": "div",
+                "align": "center",
+                "margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "16",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "__globals__": {
+                  "title_color": "globals/colors?id=accent_gold",
+                  "typography_typography": "globals/typography?id=accent"
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "heading",
+              "elType": "widget"
+            },
+            {
+              "id": "sc9w002a",
+              "settings": {
+                "title": "School Companion, Answered",
+                "align": "center",
+                "margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "50",
+                  "left": "0",
+                  "isLinked": false
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "heading",
+              "elType": "widget"
+            },
+            {
+              "id": "sc9w003a",
+              "settings": {
+                "ekit_accordion_title_tag": "h3",
+                "ekit_accordion_items": [
+                  {
+                    "acc_title": "How long does setup take?",
+                    "acc_content": "Setting up our school management system takes just 5 working days for most schools. We handle the technical work: configuring your grades, subjects, staff accounts and fee structure. You simply provide the information.",
+                    "_id": "scfq1v1"
+                  },
+                  {
+                    "acc_title": "Does it work during load shedding?",
+                    "acc_content": "Yes. School Companion caches recent data so teachers can mark attendance offline. It syncs automatically when connectivity returns.",
+                    "_id": "scfq2v1"
+                  },
+                  {
+                    "acc_title": "Can parents access the system?",
+                    "acc_content": "Parents receive automated notifications for absences, results and fee statements. A parent portal is available on the School and Campus tiers.",
+                    "_id": "scfq3v1"
+                  },
+                  {
+                    "acc_title": "Is our data safe?",
+                    "acc_content": "Your school's data is stored securely and is not shared with third parties. We use Google Firebase infrastructure with South African data residency.",
+                    "_id": "scfq4v1"
+                  },
+                  {
+                    "acc_title": "What happens if we cancel?",
+                    "acc_content": "Your data belongs to your school. On cancellation we export all records in standard formats and hand them over before your subscription ends.",
+                    "_id": "scfq5v1"
+                  },
+                  {
+                    "acc_title": "Do you train our staff?",
+                    "acc_content": "Yes. Onboarding includes a live training session for your admin team and a short video library for teachers. Ongoing support is via email or WhatsApp.",
+                    "_id": "scfq6v1"
+                  },
+                  {
+                    "acc_title": "Can we run it alongside our current system?",
+                    "acc_content": "Yes, during transition. School Companion is designed to replace paper registers, Excel spreadsheets and WhatsApp groups over time. We help you migrate.",
+                    "_id": "scfq7v1"
+                  }
+                ]
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "elementskit-accordion",
+              "elType": "widget"
+            },
+            {
+              "id": "sc9w004a",
+              "settings": {
+                "html": "<style>.elementskit-accordion .elementskit-card{border:1px solid #E8EAF0!important;border-radius:12px!important;margin-bottom:14px!important;overflow:hidden;background:var(--e-global-color-light)!important;box-shadow:none!important}.elementskit-accordion .elementskit-card-header{background:var(--e-global-color-light)!important;border:0!important;padding:0!important}.elementskit-accordion .elementskit-card-header a,.elementskit-accordion .elementskit-btn-link{font-family:Montserrat,sans-serif!important;font-weight:600!important;font-size:17px!important;color:var(--e-global-color-text)!important;padding:20px 22px!important;display:flex!important;justify-content:space-between!important;align-items:center!important;gap:16px!important;text-decoration:none!important}.elementskit-accordion .elementskit-card-header a:hover,.elementskit-accordion .elementskit-card-header a:not(.collapsed){color:var(--e-global-color-secondary)!important}.elementskit-accordion .elementskit-card-body{font-family:'DM Sans',sans-serif!important;font-size:15px!important;line-height:1.7!important;color:var(--e-global-color-text)!important;padding:0 22px 22px!important}</style>"
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "html",
+              "elType": "widget"
+            }
+          ],
+          "isInner": false,
+          "elType": "column"
+        }
+      ],
+      "isInner": false,
+      "elType": "section"
+    },
+    {
+      "id": "sc10s01a",
+      "settings": {
+        "content_position": "middle",
+        "background_background": "classic",
+        "padding": {
+          "unit": "px",
+          "top": "120",
+          "right": "0",
+          "bottom": "120",
+          "left": "0",
+          "isLinked": false
+        },
+        "padding_mobile": {
+          "unit": "px",
+          "top": "72",
+          "right": "24",
+          "bottom": "72",
+          "left": "24",
+          "isLinked": false
+        },
+        "__globals__": {
+          "background_color": "globals/colors?id=primary"
+        }
+      },
+      "elements": [
+        {
+          "id": "sc10c01a",
+          "settings": {
+            "_column_size": 100,
+            "_inline_size": null
+          },
+          "elements": [
+            {
+              "id": "sc10w01a",
+              "settings": {
+                "html": "<style>.elementor-element-sc10s01a{position:relative;overflow:hidden}.elementor-element-sc10s01a::before{content:\"\";position:absolute;top:0;right:0;width:70%;height:130%;background:radial-gradient(circle at top right,color-mix(in srgb,var(--e-global-color-accent2) 55%,transparent),transparent 60%);pointer-events:none;z-index:0}.elementor-element-sc10s01a>.elementor-container{position:relative;z-index:1}</style>"
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "html",
+              "elType": "widget"
+            },
+            {
+              "id": "sc10w02a",
+              "settings": {
+                "title": "• Get Started",
+                "header_size": "div",
+                "align": "center",
+                "margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "16",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "__globals__": {
+                  "title_color": "globals/colors?id=accent_gold",
+                  "typography_typography": "globals/typography?id=accent"
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "heading",
+              "elType": "widget"
+            },
+            {
+              "id": "sc10w03a",
+              "settings": {
+                "title": "Ready to Run Your School Properly?",
+                "align": "center",
+                "margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "16",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "__globals__": {
+                  "title_color": "globals/colors?id=light"
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "heading",
+              "elType": "widget"
+            },
+            {
+              "id": "sc10w04a",
+              "settings": {
+                "editor": "<p style=\"max-width:640px;margin:0 auto;text-align:center;\">Start a free trial or book a call with us. We will show you our school management system live and set it up for your school within 5 working days.</p>",
+                "margin": {
+                  "unit": "px",
+                  "top": "0",
+                  "right": "0",
+                  "bottom": "34",
+                  "left": "0",
+                  "isLinked": false
+                },
+                "__globals__": {
+                  "text_color": "globals/colors?id=surface"
+                }
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "text-editor",
+              "elType": "widget"
+            },
+            {
+              "id": "sc10s01b",
+              "settings": {
+                "structure": "20",
+                "gap": "narrow"
+              },
+              "elements": [
+                {
+                  "id": "sc10c01c",
+                  "settings": {
+                    "_column_size": 50,
+                    "_inline_size": 50,
+                    "_inline_size_mobile": 100
+                  },
+                  "elements": [
+                    {
+                      "id": "sc10w05a",
+                      "settings": {
+                        "text": "Start Free Trial",
+                        "link": {
+                          "url": "https://school-companion-app-1.web.app/register",
+                          "is_external": true,
+                          "nofollow": false
+                        },
+                        "align": "right",
+                        "align_mobile": "center",
+                        "border_radius": {
+                          "unit": "px",
+                          "top": "8",
+                          "right": "8",
+                          "bottom": "8",
+                          "left": "8",
+                          "isLinked": true
+                        },
+                        "__globals__": {
+                          "background_color": "globals/colors?id=light",
+                          "button_text_color": "globals/colors?id=primary",
+                          "button_background_hover_color": "globals/colors?id=surface",
+                          "hover_color": "globals/colors?id=primary",
+                          "typography_typography": "globals/typography?id=mps-btn"
+                        }
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "button",
+                      "elType": "widget"
+                    }
+                  ],
+                  "isInner": true,
+                  "elType": "column"
+                },
+                {
+                  "id": "sc10c01d",
+                  "settings": {
+                    "_column_size": 50,
+                    "_inline_size": 50,
+                    "_inline_size_mobile": 100
+                  },
+                  "elements": [
+                    {
+                      "id": "sc10w06a",
+                      "settings": {
+                        "text": "065 221 9944",
+                        "link": {
+                          "url": "tel:+27652219944",
+                          "is_external": false,
+                          "nofollow": false
+                        },
+                        "align": "left",
+                        "align_mobile": "center",
+                        "border_border": "solid",
+                        "border_width": {
+                          "unit": "px",
+                          "top": "1",
+                          "right": "1",
+                          "bottom": "1",
+                          "left": "1",
+                          "isLinked": true
+                        },
+                        "border_radius": {
+                          "unit": "px",
+                          "top": "8",
+                          "right": "8",
+                          "bottom": "8",
+                          "left": "8",
+                          "isLinked": true
+                        },
+                        "background_color": "rgba(255,255,255,0)",
+                        "button_background_hover_color": "rgba(255,255,255,0.12)",
+                        "selected_icon": {
+                          "value": "fas fa-phone",
+                          "library": "fa-solid"
+                        },
+                        "icon_align": "left",
+                        "__globals__": {
+                          "button_text_color": "globals/colors?id=light",
+                          "hover_color": "globals/colors?id=light",
+                          "border_color": "globals/colors?id=light",
+                          "button_hover_border_color": "globals/colors?id=light",
+                          "typography_typography": "globals/typography?id=mps-btn"
+                        }
+                      },
+                      "elements": [],
+                      "isInner": false,
+                      "widgetType": "button",
+                      "elType": "widget"
+                    }
+                  ],
+                  "isInner": true,
+                  "elType": "column"
+                }
+              ],
+              "isInner": true,
+              "elType": "section"
+            },
+            {
+              "id": "sc10w07a",
+              "settings": {
+                "html": "<a class=\"mps-wa-float\" href=\"https://wa.me/27652219944?text=Hi%20Marketing%20Premium%20Solutions%2C%20I%27d%20like%20to%20discuss%20growing%20my%20business\" target=\"_blank\" rel=\"noopener\" aria-label=\"Chat on WhatsApp\"><svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 24 24\"><path d=\"M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347zM12 0C5.373 0 0 5.373 0 12c0 2.122.558 4.112 1.528 5.836L0 24l6.335-1.507A11.945 11.945 0 0 0 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 22c-1.882 0-3.656-.503-5.184-1.381l-.371-.22-3.761.895.952-3.664-.242-.379A9.936 9.936 0 0 1 2 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10z\"/></svg></a><style>.mps-wa-float{position:fixed;bottom:28px;right:28px;z-index:9999;width:56px;height:56px;border-radius:50%;background:#25D366;display:flex;align-items:center;justify-content:center;box-shadow:0 4px 16px rgba(37,211,102,.4);transition:transform .2s}.mps-wa-float:hover{transform:scale(1.08)}.mps-wa-float svg{width:28px;height:28px;fill:#FFFFFF}</style>"
+              },
+              "elements": [],
+              "isInner": false,
+              "widgetType": "html",
+              "elType": "widget"
+            }
+          ],
+          "isInner": false,
+          "elType": "column"
+        }
+      ],
+      "isInner": false,
+      "elType": "section"
+    }
+  ],
+  "page_settings": {
+    "rank_math_title": "School Companion | School Management System for SA Schools | MPS",
+    "rank_math_description": "School Companion manages attendance, marks, fees and parent communication for South African independent schools. Grade R-12, CAPS-aligned. Built by Marketing Premium Solutions."
+  },
+  "version": "0.4",
+  "title": "School Companion | School Management System",
+  "type": "page"
+}
